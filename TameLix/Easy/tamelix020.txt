@@ -1,0 +1,790 @@
+$BUILT 2015-08-04 20:25:16
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH End of the Lix
+
+#SIZE_X 1000
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 140
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 10
+#JUMPER 10
+#CLIMBER 10
+#FLOATER 10
+#EXPLODER2 10
+#BATTER 10
+#BLOCKER 10
+#BUILDER 10
+#PLATFORMER 10
+#BASHER 10
+#MINER 10
+#DIGGER 10
+
+:matt/oriental/Hatch.H: 184 112
+
+:matt/oriental/Goal.G: 704 114
+
+:matt/oriental/10: 400 112
+:matt/oriental/10: 368 112 frr
+:matt/oriental/10: 336 144 frr
+:matt/oriental/10: 304 176 frr
+:matt/oriental/10: 272 208 frr
+:matt/oriental/10: 240 240 frr
+:matt/oriental/10: 208 272 frr
+:matt/oriental/10: 176 304 frr
+:matt/oriental/10: 144 336 frr
+:matt/oriental/10: 528 208 frr
+:matt/oriental/10: 560 176 frr
+:matt/oriental/10: 432 144
+:matt/oriental/10: 464 176
+:matt/oriental/10: 496 208
+:matt/oriental/10: 592 176
+:matt/oriental/10: 624 208
+:matt/oriental/10: 656 240
+:matt/oriental/10: 688 272
+:matt/oriental/10: 720 304
+:matt/oriental/10: 752 336
+:matt/oriental/10: 368 144 frr
+:matt/oriental/10: 368 144 f
+:matt/oriental/10: 400 144
+:matt/oriental/10: 400 144 rr
+:matt/oriental/10: 336 176 frr
+:matt/oriental/10: 336 176 f
+:matt/oriental/10: 368 176
+:matt/oriental/10: 368 176 rr
+:matt/oriental/10: 400 176 frr
+:matt/oriental/10: 400 176 f
+:matt/oriental/10: 432 176
+:matt/oriental/10: 432 176 rr
+:matt/oriental/10: 304 208 frr
+:matt/oriental/10: 304 208 f
+:matt/oriental/10: 336 208
+:matt/oriental/10: 336 208 rr
+:matt/oriental/10: 368 208 frr
+:matt/oriental/10: 368 208 f
+:matt/oriental/10: 400 208
+:matt/oriental/10: 400 208 rr
+:matt/oriental/10: 432 208 frr
+:matt/oriental/10: 432 208 f
+:matt/oriental/10: 464 208
+:matt/oriental/10: 464 208 rr
+:matt/oriental/10: 560 208 frr
+:matt/oriental/10: 560 208 f
+:matt/oriental/10: 592 208
+:matt/oriental/10: 592 208 rr
+:matt/oriental/10: 272 240 frr
+:matt/oriental/10: 272 240 f
+:matt/oriental/10: 304 240
+:matt/oriental/10: 304 240 rr
+:matt/oriental/10: 336 240 frr
+:matt/oriental/10: 336 240 f
+:matt/oriental/10: 368 240
+:matt/oriental/10: 368 240 rr
+:matt/oriental/10: 400 240 frr
+:matt/oriental/10: 400 240 f
+:matt/oriental/10: 432 240
+:matt/oriental/10: 432 240 rr
+:matt/oriental/10: 464 240 frr
+:matt/oriental/10: 464 240 f
+:matt/oriental/10: 496 240
+:matt/oriental/10: 496 240 rr
+:matt/oriental/10: 528 240 frr
+:matt/oriental/10: 528 240 f
+:matt/oriental/10: 560 240
+:matt/oriental/10: 560 240 rr
+:matt/oriental/10: 592 240 frr
+:matt/oriental/10: 592 240 f
+:matt/oriental/10: 624 240
+:matt/oriental/10: 624 240 rr
+:matt/oriental/10: 240 272 frr
+:matt/oriental/10: 240 272 f
+:matt/oriental/10: 272 272
+:matt/oriental/10: 272 272 rr
+:matt/oriental/10: 304 272 frr
+:matt/oriental/10: 304 272 f
+:matt/oriental/10: 336 272
+:matt/oriental/10: 336 272 rr
+:matt/oriental/10: 368 272 frr
+:matt/oriental/10: 368 272 f
+:matt/oriental/10: 400 272
+:matt/oriental/10: 400 272 rr
+:matt/oriental/10: 432 272 frr
+:matt/oriental/10: 432 272 f
+:matt/oriental/10: 464 272
+:matt/oriental/10: 464 272 rr
+:matt/oriental/10: 496 272 frr
+:matt/oriental/10: 496 272 f
+:matt/oriental/10: 528 272
+:matt/oriental/10: 528 272 rr
+:matt/oriental/10: 560 272 frr
+:matt/oriental/10: 560 272 f
+:matt/oriental/10: 592 272
+:matt/oriental/10: 592 272 rr
+:matt/oriental/10: 624 272 frr
+:matt/oriental/10: 624 272 f
+:matt/oriental/10: 656 272
+:matt/oriental/10: 656 272 rr
+:matt/oriental/10: 208 304 frr
+:matt/oriental/10: 208 304 f
+:matt/oriental/10: 240 304
+:matt/oriental/10: 240 304 rr
+:matt/oriental/10: 272 304 frr
+:matt/oriental/10: 272 304 f
+:matt/oriental/10: 304 304
+:matt/oriental/10: 304 304 rr
+:matt/oriental/10: 336 304 frr
+:matt/oriental/10: 336 304 f
+:matt/oriental/10: 368 304
+:matt/oriental/10: 368 304 rr
+:matt/oriental/10: 400 304 frr
+:matt/oriental/10: 400 304 f
+:matt/oriental/10: 432 304
+:matt/oriental/10: 432 304 rr
+:matt/oriental/10: 464 304 frr
+:matt/oriental/10: 464 304 f
+:matt/oriental/10: 496 304
+:matt/oriental/10: 496 304 rr
+:matt/oriental/10: 528 304 frr
+:matt/oriental/10: 528 304 f
+:matt/oriental/10: 560 304
+:matt/oriental/10: 560 304 rr
+:matt/oriental/10: 592 304 frr
+:matt/oriental/10: 592 304 f
+:matt/oriental/10: 624 304
+:matt/oriental/10: 624 304 rr
+:matt/oriental/10: 656 304 frr
+:matt/oriental/10: 656 304 f
+:matt/oriental/10: 688 304
+:matt/oriental/10: 688 304 rr
+:matt/oriental/10: 176 336 frr
+:matt/oriental/10: 176 336 f
+:matt/oriental/10: 208 336
+:matt/oriental/10: 208 336 rr
+:matt/oriental/10: 240 336 frr
+:matt/oriental/10: 240 336 f
+:matt/oriental/10: 272 336
+:matt/oriental/10: 272 336 rr
+:matt/oriental/10: 304 336 frr
+:matt/oriental/10: 304 336 f
+:matt/oriental/10: 336 336
+:matt/oriental/10: 336 336 rr
+:matt/oriental/10: 368 336 frr
+:matt/oriental/10: 368 336 f
+:matt/oriental/10: 400 336
+:matt/oriental/10: 400 336 rr
+:matt/oriental/10: 432 336 frr
+:matt/oriental/10: 432 336 f
+:matt/oriental/10: 464 336
+:matt/oriental/10: 464 336 rr
+:matt/oriental/10: 496 336 frr
+:matt/oriental/10: 496 336 f
+:matt/oriental/10: 528 336
+:matt/oriental/10: 528 336 rr
+:matt/oriental/10: 560 336 frr
+:matt/oriental/10: 560 336 f
+:matt/oriental/10: 592 336
+:matt/oriental/10: 592 336 rr
+:matt/oriental/10: 624 336 frr
+:matt/oriental/10: 624 336 f
+:matt/oriental/10: 656 336
+:matt/oriental/10: 656 336 rr
+:matt/oriental/10: 688 336 frr
+:matt/oriental/10: 688 336 f
+:matt/oriental/10: 720 336
+:matt/oriental/10: 720 336 rr
+:geoo/construction/rod_rust/straight_diagu8: 384 128 d
+:geoo/construction/rod_rust/straight_diagu8: 386 130 d
+:geoo/construction/rod_rust/straight_diagu8: 370 146 d
+:geoo/construction/rod_rust/straight_diagu8: 368 144 d
+:geoo/construction/rod_rust/straight_diagu8: 402 146 d
+:geoo/construction/rod_rust/straight_diagu8: 400 144 d
+:geoo/construction/rod_rust/straight_diagu8: 354 162 d
+:geoo/construction/rod_rust/straight_diagu8: 352 160 d
+:geoo/construction/rod_rust/straight_diagu8: 386 162 d
+:geoo/construction/rod_rust/straight_diagu8: 384 160 d
+:geoo/construction/rod_rust/straight_diagu8: 418 162 d
+:geoo/construction/rod_rust/straight_diagu8: 416 160 d
+:geoo/construction/rod_rust/straight_diagu8: 338 178 d
+:geoo/construction/rod_rust/straight_diagu8: 336 176 d
+:geoo/construction/rod_rust/straight_diagu8: 370 178 d
+:geoo/construction/rod_rust/straight_diagu8: 368 176 d
+:geoo/construction/rod_rust/straight_diagu8: 402 178 d
+:geoo/construction/rod_rust/straight_diagu8: 400 176 d
+:geoo/construction/rod_rust/straight_diagu8: 434 178 d
+:geoo/construction/rod_rust/straight_diagu8: 432 176 d
+:geoo/construction/rod_rust/straight_diagu8: 322 194 d
+:geoo/construction/rod_rust/straight_diagu8: 320 192 d
+:geoo/construction/rod_rust/straight_diagu8: 354 194 d
+:geoo/construction/rod_rust/straight_diagu8: 352 192 d
+:geoo/construction/rod_rust/straight_diagu8: 386 194 d
+:geoo/construction/rod_rust/straight_diagu8: 384 192 d
+:geoo/construction/rod_rust/straight_diagu8: 418 194 d
+:geoo/construction/rod_rust/straight_diagu8: 416 192 d
+:geoo/construction/rod_rust/straight_diagu8: 450 194 d
+:geoo/construction/rod_rust/straight_diagu8: 448 192 d
+:geoo/construction/rod_rust/straight_diagu8: 306 210 d
+:geoo/construction/rod_rust/straight_diagu8: 304 208 d
+:geoo/construction/rod_rust/straight_diagu8: 338 210 d
+:geoo/construction/rod_rust/straight_diagu8: 336 208 d
+:geoo/construction/rod_rust/straight_diagu8: 370 210 d
+:geoo/construction/rod_rust/straight_diagu8: 368 208 d
+:geoo/construction/rod_rust/straight_diagu8: 402 210 d
+:geoo/construction/rod_rust/straight_diagu8: 400 208 d
+:geoo/construction/rod_rust/straight_diagu8: 434 210 d
+:geoo/construction/rod_rust/straight_diagu8: 432 208 d
+:geoo/construction/rod_rust/straight_diagu8: 466 210 d
+:geoo/construction/rod_rust/straight_diagu8: 464 208 d
+:geoo/construction/rod_rust/straight_diagu8: 290 226 d
+:geoo/construction/rod_rust/straight_diagu8: 288 224 d
+:geoo/construction/rod_rust/straight_diagu8: 322 226 d
+:geoo/construction/rod_rust/straight_diagu8: 320 224 d
+:geoo/construction/rod_rust/straight_diagu8: 354 226 d
+:geoo/construction/rod_rust/straight_diagu8: 352 224 d
+:geoo/construction/rod_rust/straight_diagu8: 386 226 d
+:geoo/construction/rod_rust/straight_diagu8: 384 224 d
+:geoo/construction/rod_rust/straight_diagu8: 418 226 d
+:geoo/construction/rod_rust/straight_diagu8: 416 224 d
+:geoo/construction/rod_rust/straight_diagu8: 450 226 d
+:geoo/construction/rod_rust/straight_diagu8: 448 224 d
+:geoo/construction/rod_rust/straight_diagu8: 482 226 d
+:geoo/construction/rod_rust/straight_diagu8: 480 224 d
+:geoo/construction/rod_rust/straight_diagu8: 272 240 d
+:geoo/construction/rod_rust/straight_diagu8: 274 242 d
+:geoo/construction/rod_rust/straight_diagu8: 256 256 d
+:geoo/construction/rod_rust/straight_diagu8: 258 258 d
+:geoo/construction/rod_rust/straight_diagu8: 240 272 d
+:geoo/construction/rod_rust/straight_diagu8: 242 274 d
+:geoo/construction/rod_rust/straight_diagu8: 224 288 d
+:geoo/construction/rod_rust/straight_diagu8: 226 290 d
+:geoo/construction/rod_rust/straight_diagu8: 208 304 d
+:geoo/construction/rod_rust/straight_diagu8: 210 306 d
+:geoo/construction/rod_rust/straight_diagu8: 192 320 d
+:geoo/construction/rod_rust/straight_diagu8: 194 322 d
+:geoo/construction/rod_rust/straight_diagu8: 176 336 d
+:geoo/construction/rod_rust/straight_diagu8: 178 338 d
+:geoo/construction/rod_rust/straight_diagu8: 160 352 d
+:geoo/construction/rod_rust/straight_diagu8: 162 354 d
+:geoo/construction/rod_rust/straight_diagu8: 192 352 d
+:geoo/construction/rod_rust/straight_diagu8: 194 354 d
+:geoo/construction/rod_rust/straight_diagu8: 208 336 d
+:geoo/construction/rod_rust/straight_diagu8: 210 338 d
+:geoo/construction/rod_rust/straight_diagu8: 224 320 d
+:geoo/construction/rod_rust/straight_diagu8: 226 322 d
+:geoo/construction/rod_rust/straight_diagu8: 240 304 d
+:geoo/construction/rod_rust/straight_diagu8: 242 306 d
+:geoo/construction/rod_rust/straight_diagu8: 256 288 d
+:geoo/construction/rod_rust/straight_diagu8: 258 290 d
+:geoo/construction/rod_rust/straight_diagu8: 272 272 d
+:geoo/construction/rod_rust/straight_diagu8: 274 274 d
+:geoo/construction/rod_rust/straight_diagu8: 288 256 d
+:geoo/construction/rod_rust/straight_diagu8: 290 258 d
+:geoo/construction/rod_rust/straight_diagu8: 304 240 d
+:geoo/construction/rod_rust/straight_diagu8: 306 242 d
+:geoo/construction/rod_rust/straight_diagu8: 336 240 d
+:geoo/construction/rod_rust/straight_diagu8: 338 242 d
+:geoo/construction/rod_rust/straight_diagu8: 320 256 d
+:geoo/construction/rod_rust/straight_diagu8: 322 258 d
+:geoo/construction/rod_rust/straight_diagu8: 304 272 d
+:geoo/construction/rod_rust/straight_diagu8: 306 274 d
+:geoo/construction/rod_rust/straight_diagu8: 288 288 d
+:geoo/construction/rod_rust/straight_diagu8: 290 290 d
+:geoo/construction/rod_rust/straight_diagu8: 272 304 d
+:geoo/construction/rod_rust/straight_diagu8: 274 306 d
+:geoo/construction/rod_rust/straight_diagu8: 256 320 d
+:geoo/construction/rod_rust/straight_diagu8: 258 322 d
+:geoo/construction/rod_rust/straight_diagu8: 240 336 d
+:geoo/construction/rod_rust/straight_diagu8: 242 338 d
+:geoo/construction/rod_rust/straight_diagu8: 224 352 d
+:geoo/construction/rod_rust/straight_diagu8: 226 354 d
+:geoo/construction/rod_rust/straight_diagu8: 256 352 d
+:geoo/construction/rod_rust/straight_diagu8: 258 354 d
+:geoo/construction/rod_rust/straight_diagu8: 272 336 d
+:geoo/construction/rod_rust/straight_diagu8: 274 338 d
+:geoo/construction/rod_rust/straight_diagu8: 288 320 d
+:geoo/construction/rod_rust/straight_diagu8: 290 322 d
+:geoo/construction/rod_rust/straight_diagu8: 304 304 d
+:geoo/construction/rod_rust/straight_diagu8: 306 306 d
+:geoo/construction/rod_rust/straight_diagu8: 320 288 d
+:geoo/construction/rod_rust/straight_diagu8: 322 290 d
+:geoo/construction/rod_rust/straight_diagu8: 336 272 d
+:geoo/construction/rod_rust/straight_diagu8: 338 274 d
+:geoo/construction/rod_rust/straight_diagu8: 352 256 d
+:geoo/construction/rod_rust/straight_diagu8: 354 258 d
+:geoo/construction/rod_rust/straight_diagu8: 368 240 d
+:geoo/construction/rod_rust/straight_diagu8: 370 242 d
+:geoo/construction/rod_rust/straight_diagu8: 400 240 d
+:geoo/construction/rod_rust/straight_diagu8: 402 242 d
+:geoo/construction/rod_rust/straight_diagu8: 384 256 d
+:geoo/construction/rod_rust/straight_diagu8: 386 258 d
+:geoo/construction/rod_rust/straight_diagu8: 368 272 d
+:geoo/construction/rod_rust/straight_diagu8: 370 274 d
+:geoo/construction/rod_rust/straight_diagu8: 352 288 d
+:geoo/construction/rod_rust/straight_diagu8: 354 290 d
+:geoo/construction/rod_rust/straight_diagu8: 336 304 d
+:geoo/construction/rod_rust/straight_diagu8: 338 306 d
+:geoo/construction/rod_rust/straight_diagu8: 320 320 d
+:geoo/construction/rod_rust/straight_diagu8: 322 322 d
+:geoo/construction/rod_rust/straight_diagu8: 304 336 d
+:geoo/construction/rod_rust/straight_diagu8: 306 338 d
+:geoo/construction/rod_rust/straight_diagu8: 288 352 d
+:geoo/construction/rod_rust/straight_diagu8: 290 354 d
+:geoo/construction/rod_rust/straight_diagu8: 320 352 d
+:geoo/construction/rod_rust/straight_diagu8: 322 354 d
+:geoo/construction/rod_rust/straight_diagu8: 336 336 d
+:geoo/construction/rod_rust/straight_diagu8: 338 338 d
+:geoo/construction/rod_rust/straight_diagu8: 352 320 d
+:geoo/construction/rod_rust/straight_diagu8: 354 322 d
+:geoo/construction/rod_rust/straight_diagu8: 368 304 d
+:geoo/construction/rod_rust/straight_diagu8: 370 306 d
+:geoo/construction/rod_rust/straight_diagu8: 384 288 d
+:geoo/construction/rod_rust/straight_diagu8: 386 290 d
+:geoo/construction/rod_rust/straight_diagu8: 400 272 d
+:geoo/construction/rod_rust/straight_diagu8: 402 274 d
+:geoo/construction/rod_rust/straight_diagu8: 416 256 d
+:geoo/construction/rod_rust/straight_diagu8: 418 258 d
+:geoo/construction/rod_rust/straight_diagu8: 432 240 d
+:geoo/construction/rod_rust/straight_diagu8: 434 242 d
+:geoo/construction/rod_rust/straight_diagu8: 464 240 d
+:geoo/construction/rod_rust/straight_diagu8: 466 242 d
+:geoo/construction/rod_rust/straight_diagu8: 448 256 d
+:geoo/construction/rod_rust/straight_diagu8: 450 258 d
+:geoo/construction/rod_rust/straight_diagu8: 432 272 d
+:geoo/construction/rod_rust/straight_diagu8: 434 274 d
+:geoo/construction/rod_rust/straight_diagu8: 416 288 d
+:geoo/construction/rod_rust/straight_diagu8: 418 290 d
+:geoo/construction/rod_rust/straight_diagu8: 400 304 d
+:geoo/construction/rod_rust/straight_diagu8: 402 306 d
+:geoo/construction/rod_rust/straight_diagu8: 384 320 d
+:geoo/construction/rod_rust/straight_diagu8: 386 322 d
+:geoo/construction/rod_rust/straight_diagu8: 368 336 d
+:geoo/construction/rod_rust/straight_diagu8: 370 338 d
+:geoo/construction/rod_rust/straight_diagu8: 352 352 d
+:geoo/construction/rod_rust/straight_diagu8: 354 354 d
+:geoo/construction/rod_rust/straight_diagu8: 384 352 d
+:geoo/construction/rod_rust/straight_diagu8: 386 354 d
+:geoo/construction/rod_rust/straight_diagu8: 400 336 d
+:geoo/construction/rod_rust/straight_diagu8: 402 338 d
+:geoo/construction/rod_rust/straight_diagu8: 416 320 d
+:geoo/construction/rod_rust/straight_diagu8: 418 322 d
+:geoo/construction/rod_rust/straight_diagu8: 432 304 d
+:geoo/construction/rod_rust/straight_diagu8: 434 306 d
+:geoo/construction/rod_rust/straight_diagu8: 448 288 d
+:geoo/construction/rod_rust/straight_diagu8: 450 290 d
+:geoo/construction/rod_rust/straight_diagu8: 464 272 d
+:geoo/construction/rod_rust/straight_diagu8: 466 274 d
+:geoo/construction/rod_rust/straight_diagu8: 480 256 d
+:geoo/construction/rod_rust/straight_diagu8: 482 258 d
+:geoo/construction/rod_rust/straight_diagu8: 496 240 d
+:geoo/construction/rod_rust/straight_diagu8: 498 242 d
+:geoo/construction/rod_rust/straight_diagu8: 576 192 d
+:geoo/construction/rod_rust/straight_diagu8: 578 194 d
+:geoo/construction/rod_rust/straight_diagu8: 560 208 d
+:geoo/construction/rod_rust/straight_diagu8: 562 210 d
+:geoo/construction/rod_rust/straight_diagu8: 544 224 d
+:geoo/construction/rod_rust/straight_diagu8: 546 226 d
+:geoo/construction/rod_rust/straight_diagu8: 528 240 d
+:geoo/construction/rod_rust/straight_diagu8: 530 242 d
+:geoo/construction/rod_rust/straight_diagu8: 512 256 d
+:geoo/construction/rod_rust/straight_diagu8: 514 258 d
+:geoo/construction/rod_rust/straight_diagu8: 496 272 d
+:geoo/construction/rod_rust/straight_diagu8: 498 274 d
+:geoo/construction/rod_rust/straight_diagu8: 480 288 d
+:geoo/construction/rod_rust/straight_diagu8: 482 290 d
+:geoo/construction/rod_rust/straight_diagu8: 464 304 d
+:geoo/construction/rod_rust/straight_diagu8: 466 306 d
+:geoo/construction/rod_rust/straight_diagu8: 448 320 d
+:geoo/construction/rod_rust/straight_diagu8: 450 322 d
+:geoo/construction/rod_rust/straight_diagu8: 432 336 d
+:geoo/construction/rod_rust/straight_diagu8: 434 338 d
+:geoo/construction/rod_rust/straight_diagu8: 416 352 d
+:geoo/construction/rod_rust/straight_diagu8: 418 354 d
+:geoo/construction/rod_rust/straight_diagu8: 448 352 d
+:geoo/construction/rod_rust/straight_diagu8: 450 354 d
+:geoo/construction/rod_rust/straight_diagu8: 464 336 d
+:geoo/construction/rod_rust/straight_diagu8: 466 338 d
+:geoo/construction/rod_rust/straight_diagu8: 480 320 d
+:geoo/construction/rod_rust/straight_diagu8: 482 322 d
+:geoo/construction/rod_rust/straight_diagu8: 496 304 d
+:geoo/construction/rod_rust/straight_diagu8: 498 306 d
+:geoo/construction/rod_rust/straight_diagu8: 512 288 d
+:geoo/construction/rod_rust/straight_diagu8: 514 290 d
+:geoo/construction/rod_rust/straight_diagu8: 528 272 d
+:geoo/construction/rod_rust/straight_diagu8: 530 274 d
+:geoo/construction/rod_rust/straight_diagu8: 544 256 d
+:geoo/construction/rod_rust/straight_diagu8: 546 258 d
+:geoo/construction/rod_rust/straight_diagu8: 560 240 d
+:geoo/construction/rod_rust/straight_diagu8: 562 242 d
+:geoo/construction/rod_rust/straight_diagu8: 576 224 d
+:geoo/construction/rod_rust/straight_diagu8: 578 226 d
+:geoo/construction/rod_rust/straight_diagu8: 592 208 d
+:geoo/construction/rod_rust/straight_diagu8: 594 210 d
+:geoo/construction/rod_rust/straight_diagu8: 608 224 d
+:geoo/construction/rod_rust/straight_diagu8: 610 226 d
+:geoo/construction/rod_rust/straight_diagu8: 624 240 d
+:geoo/construction/rod_rust/straight_diagu8: 626 242 d
+:geoo/construction/rod_rust/straight_diagu8: 640 256 d
+:geoo/construction/rod_rust/straight_diagu8: 642 258 d
+:geoo/construction/rod_rust/straight_diagu8: 656 272 d
+:geoo/construction/rod_rust/straight_diagu8: 658 274 d
+:geoo/construction/rod_rust/straight_diagu8: 672 288 d
+:geoo/construction/rod_rust/straight_diagu8: 674 290 d
+:geoo/construction/rod_rust/straight_diagu8: 688 304 d
+:geoo/construction/rod_rust/straight_diagu8: 690 306 d
+:geoo/construction/rod_rust/straight_diagu8: 704 320 d
+:geoo/construction/rod_rust/straight_diagu8: 706 322 d
+:geoo/construction/rod_rust/straight_diagu8: 720 336 d
+:geoo/construction/rod_rust/straight_diagu8: 722 338 d
+:geoo/construction/rod_rust/straight_diagu8: 736 352 d
+:geoo/construction/rod_rust/straight_diagu8: 738 354 d
+:geoo/construction/rod_rust/straight_diagu8: 592 240 d
+:geoo/construction/rod_rust/straight_diagu8: 594 242 d
+:geoo/construction/rod_rust/straight_diagu8: 608 256 d
+:geoo/construction/rod_rust/straight_diagu8: 610 258 d
+:geoo/construction/rod_rust/straight_diagu8: 624 272 d
+:geoo/construction/rod_rust/straight_diagu8: 626 274 d
+:geoo/construction/rod_rust/straight_diagu8: 640 288 d
+:geoo/construction/rod_rust/straight_diagu8: 642 290 d
+:geoo/construction/rod_rust/straight_diagu8: 656 304 d
+:geoo/construction/rod_rust/straight_diagu8: 658 306 d
+:geoo/construction/rod_rust/straight_diagu8: 672 320 d
+:geoo/construction/rod_rust/straight_diagu8: 674 322 d
+:geoo/construction/rod_rust/straight_diagu8: 688 336 d
+:geoo/construction/rod_rust/straight_diagu8: 690 338 d
+:geoo/construction/rod_rust/straight_diagu8: 704 352 d
+:geoo/construction/rod_rust/straight_diagu8: 706 354 d
+:geoo/construction/rod_rust/straight_diagu8: 576 256 d
+:geoo/construction/rod_rust/straight_diagu8: 578 258 d
+:geoo/construction/rod_rust/straight_diagu8: 592 272 d
+:geoo/construction/rod_rust/straight_diagu8: 594 274 d
+:geoo/construction/rod_rust/straight_diagu8: 608 288 d
+:geoo/construction/rod_rust/straight_diagu8: 610 290 d
+:geoo/construction/rod_rust/straight_diagu8: 624 304 d
+:geoo/construction/rod_rust/straight_diagu8: 626 306 d
+:geoo/construction/rod_rust/straight_diagu8: 640 320 d
+:geoo/construction/rod_rust/straight_diagu8: 642 322 d
+:geoo/construction/rod_rust/straight_diagu8: 656 336 d
+:geoo/construction/rod_rust/straight_diagu8: 658 338 d
+:geoo/construction/rod_rust/straight_diagu8: 672 352 d
+:geoo/construction/rod_rust/straight_diagu8: 674 354 d
+:geoo/construction/rod_rust/straight_diagu8: 560 272 d
+:geoo/construction/rod_rust/straight_diagu8: 562 274 d
+:geoo/construction/rod_rust/straight_diagu8: 576 288 d
+:geoo/construction/rod_rust/straight_diagu8: 578 290 d
+:geoo/construction/rod_rust/straight_diagu8: 592 304 d
+:geoo/construction/rod_rust/straight_diagu8: 594 306 d
+:geoo/construction/rod_rust/straight_diagu8: 608 320 d
+:geoo/construction/rod_rust/straight_diagu8: 610 322 d
+:geoo/construction/rod_rust/straight_diagu8: 624 336 d
+:geoo/construction/rod_rust/straight_diagu8: 626 338 d
+:geoo/construction/rod_rust/straight_diagu8: 640 352 d
+:geoo/construction/rod_rust/straight_diagu8: 642 354 d
+:geoo/construction/rod_rust/straight_diagu8: 544 288 d
+:geoo/construction/rod_rust/straight_diagu8: 546 290 d
+:geoo/construction/rod_rust/straight_diagu8: 560 304 d
+:geoo/construction/rod_rust/straight_diagu8: 562 306 d
+:geoo/construction/rod_rust/straight_diagu8: 576 320 d
+:geoo/construction/rod_rust/straight_diagu8: 578 322 d
+:geoo/construction/rod_rust/straight_diagu8: 592 336 d
+:geoo/construction/rod_rust/straight_diagu8: 594 338 d
+:geoo/construction/rod_rust/straight_diagu8: 608 352 d
+:geoo/construction/rod_rust/straight_diagu8: 610 354 d
+:geoo/construction/rod_rust/straight_diagu8: 528 304 d
+:geoo/construction/rod_rust/straight_diagu8: 530 306 d
+:geoo/construction/rod_rust/straight_diagu8: 544 320 d
+:geoo/construction/rod_rust/straight_diagu8: 546 322 d
+:geoo/construction/rod_rust/straight_diagu8: 560 336 d
+:geoo/construction/rod_rust/straight_diagu8: 562 338 d
+:geoo/construction/rod_rust/straight_diagu8: 576 352 d
+:geoo/construction/rod_rust/straight_diagu8: 578 354 d
+:geoo/construction/rod_rust/straight_diagu8: 512 320 d
+:geoo/construction/rod_rust/straight_diagu8: 514 322 d
+:geoo/construction/rod_rust/straight_diagu8: 528 336 d
+:geoo/construction/rod_rust/straight_diagu8: 530 338 d
+:geoo/construction/rod_rust/straight_diagu8: 544 352 d
+:geoo/construction/rod_rust/straight_diagu8: 546 354 d
+:geoo/construction/rod_rust/straight_diagu8: 496 336 d
+:geoo/construction/rod_rust/straight_diagu8: 498 338 d
+:geoo/construction/rod_rust/straight_diagu8: 512 352 d
+:geoo/construction/rod_rust/straight_diagu8: 514 354 d
+:geoo/construction/rod_rust/straight_diagu8: 480 352 d
+:geoo/construction/rod_rust/straight_diagu8: 482 354 d
+:matt/oriental/03: 168 216
+:matt/oriental/03: 208 216
+:matt/oriental/03: 248 216
+:matt/oriental/03: 288 216
+:matt/oriental/03: 328 216
+:matt/oriental/01: 368 216
+:matt/oriental/02: 368 236
+:matt/oriental/02: 368 272
+:matt/oriental/01: 368 312
+:matt/oriental/03: 392 312
+:matt/oriental/03: 432 312
+:matt/oriental/03: 472 312
+:matt/oriental/03: 512 312
+:matt/oriental/03: 552 312
+:matt/oriental/03: 592 312
+:matt/oriental/03: 632 312
+:matt/oriental/03: 672 312
+:matt/oriental/03: 712 312
+:matt/oriental/03: 752 312
+:matt/oriental/03: 792 312
+:matt/oriental/01: 832 312
+:matt/oriental/02: 832 336
+:matt/oriental/03: 856 312
+:matt/oriental/03: 896 312
+:matt/oriental/03: 936 312
+:matt/oriental/01: 976 312
+:matt/oriental/01: 976 208
+:matt/oriental/01: 872 208
+:matt/oriental/02: 976 272
+:matt/oriental/02: 976 232
+:matt/oriental/02: 872 232
+:matt/oriental/03: 896 208
+:matt/oriental/03: 936 208
+:matt/oriental/01: 392 216
+:matt/oriental/02: 392 176
+:matt/oriental/01: 392 152
+:matt/oriental/03: 416 152
+:matt/oriental/03: 456 152
+:matt/oriental/01: 496 152
+:matt/oriental/02: 496 110
+:matt/oriental/01: 144 216
+:matt/oriental/02: 144 240
+:matt/oriental/02: 144 280
+:matt/oriental/02: 144 320
+:matt/oriental/10: 144 368 f
+:matt/oriental/10: 144 368 frr
+:matt/oriental/02: 144 176
+:matt/oriental/02: 144 136
+:matt/oriental/02: 144 96
+:matt/oriental/03: 104 216
+:matt/oriental/02: 80 56
+:matt/oriental/02: 80 96
+:matt/oriental/02: 80 136
+:matt/oriental/02: 80 176
+:matt/oriental/01: 80 216
+:matt/oriental/02: 80 240
+:matt/oriental/02: 80 280
+:matt/oriental/02: 80 320
+:matt/oriental/02: 80 360
+:matt/oriental/03: 40 216
+:matt/oriental/01: 16 216
+:matt/oriental/02: 16 176
+:matt/oriental/01: 16 152
+:matt/oriental/bamboo_pole: 650 190 rrr
+:matt/oriental/bamboo_segment1: 807 190 rrr
+:matt/oriental/bamboo_pole: 824 40
+:matt/oriental/bamboo_segment1: 794 94 rrr
+:matt/oriental/bamboo_pole: 860 -56
+:matt/oriental/bamboo_pole: 788 -56
+:matt/oriental/bamboo_segment1: 836 94 rrr
+:matt/oriental/bamboo_segment2: 816 94 rrr
+:matt/oriental/leaves1: 456 18
+:matt/oriental/leaves4: 360 14
+:matt/oriental/leaves3: 368 32
+:matt/oriental/leaves5: 420 60
+:matt/oriental/leaves3: 400 40
+:matt/oriental/leaves3: 408 44
+:matt/oriental/leaves3: 434 60
+:matt/oriental/leaves1: 480 56
+:matt/oriental/leaves1: 524 64
+:matt/oriental/leaves3: 574 56 frr
+:matt/oriental/leaves3: 624 48 frr
+:matt/oriental/leaves3: 674 40 frr
+:matt/oriental/leaves1: 680 34
+:matt/oriental/leaves1: 684 24
+:matt/oriental/leaves1: 632 24
+:matt/oriental/leaves1: 576 24
+:matt/oriental/leaves1: 620 38
+:matt/oriental/leaves1: 582 34
+:matt/oriental/leaves1: 564 46
+:matt/oriental/leaves1: 500 20
+:matt/oriental/leaves1: 500 30
+:matt/oriental/leaves1: 452 30
+:matt/oriental/02: 496 70
+:matt/oriental/01: 496 46
+:matt/oriental/03: 456 46
+:matt/oriental/03: 520 46
+:matt/oriental/01: 560 46
+:matt/oriental/leaves4: 430 -6
+:matt/oriental/leaves4: 542 -10
+:matt/oriental/leaves4: 524 -2
+:matt/oriental/leaves1: 370 26
+:matt/oriental/leaves5: 424 66
+:matt/oriental/01: 432 46
+:matt/oriental/leaves3: 182 72 frr
+:matt/oriental/leaves3: 232 24 rrr
+:matt/oriental/leaves1: 316 32
+:matt/oriental/leaves1: 206 42
+:matt/oriental/leaves1: 252 36
+:matt/oriental/leaves1: 278 30
+:matt/oriental/leaves4: 444 6
+:matt/oriental/leaves4: 360 -8
+:matt/oriental/leaves4: 346 2
+:matt/oriental/leaves1: 318 22
+:matt/oriental/leaves1: 244 24
+:matt/oriental/leaves1: 170 -20 rrr
+:matt/oriental/leaves1: 186 24
+:matt/oriental/leaves1: 178 58
+:matt/oriental/leaves3: 172 24 frrr
+:matt/oriental/leaves1: 180 42
+:matt/oriental/leaves1: 164 26
+:matt/oriental/leaves1: 108 34
+:matt/oriental/leaves1: 90 -4
+:matt/oriental/leaves1: 90 10
+:matt/oriental/leaves1: 102 26
+:matt/oriental/02: 80 16
+:matt/oriental/leaves1: 130 40
+:matt/oriental/02: 144 56
+:matt/oriental/02: 144 16
+:matt/oriental/bamboo_pole: 824 -118
+:matt/oriental/02: 80 -24
+:matt/oriental/02: 144 -24
+:matt/oriental/02: 832 376
+:matt/oriental/10: 784 368
+:matt/oriental/10: 208 368 frr
+:matt/oriental/10: 208 368 f
+:matt/oriental/10: 240 368
+:matt/oriental/10: 240 368 rr
+:matt/oriental/10: 272 368 frr
+:matt/oriental/10: 272 368 f
+:matt/oriental/10: 304 368
+:matt/oriental/10: 304 368 rr
+:matt/oriental/10: 336 368 frr
+:matt/oriental/10: 336 368 f
+:matt/oriental/10: 368 368
+:matt/oriental/10: 368 368 rr
+:matt/oriental/10: 400 368 frr
+:matt/oriental/10: 400 368 f
+:matt/oriental/10: 432 368
+:matt/oriental/10: 432 368 rr
+:matt/oriental/10: 464 368 frr
+:matt/oriental/10: 464 368 f
+:matt/oriental/10: 496 368
+:matt/oriental/10: 496 368 rr
+:matt/oriental/10: 528 368 frr
+:matt/oriental/10: 528 368 f
+:matt/oriental/10: 560 368
+:matt/oriental/10: 560 368 rr
+:matt/oriental/10: 592 368 frr
+:matt/oriental/10: 592 368 f
+:matt/oriental/10: 624 368
+:matt/oriental/10: 624 368 rr
+:matt/oriental/10: 656 368 frr
+:matt/oriental/10: 656 368 f
+:matt/oriental/10: 688 368
+:matt/oriental/10: 688 368 rr
+:matt/oriental/10: 720 368 frr
+:matt/oriental/10: 720 368 f
+:matt/oriental/10: 752 368
+:matt/oriental/10: 752 368 rr
+:geoo/construction/rod_rust/straight_diagu8: 208 368 d
+:geoo/construction/rod_rust/straight_diagu8: 210 370 d
+:matt/oriental/10: 176 368 f
+:matt/oriental/10: 176 368 frr
+:geoo/construction/rod_rust/straight_diagu8: 192 384 d
+:geoo/construction/rod_rust/straight_diagu8: 194 386 d
+:geoo/construction/rod_rust/straight_diagu8: 224 384 d
+:geoo/construction/rod_rust/straight_diagu8: 226 386 d
+:geoo/construction/rod_rust/straight_diagu8: 240 368 d
+:geoo/construction/rod_rust/straight_diagu8: 242 370 d
+:geoo/construction/rod_rust/straight_diagu8: 272 368 d
+:geoo/construction/rod_rust/straight_diagu8: 274 370 d
+:geoo/construction/rod_rust/straight_diagu8: 256 384 d
+:geoo/construction/rod_rust/straight_diagu8: 258 386 d
+:geoo/construction/rod_rust/straight_diagu8: 288 384 d
+:geoo/construction/rod_rust/straight_diagu8: 290 386 d
+:geoo/construction/rod_rust/straight_diagu8: 304 368 d
+:geoo/construction/rod_rust/straight_diagu8: 306 370 d
+:geoo/construction/rod_rust/straight_diagu8: 336 368 d
+:geoo/construction/rod_rust/straight_diagu8: 338 370 d
+:geoo/construction/rod_rust/straight_diagu8: 320 384 d
+:geoo/construction/rod_rust/straight_diagu8: 322 386 d
+:geoo/construction/rod_rust/straight_diagu8: 352 384 d
+:geoo/construction/rod_rust/straight_diagu8: 354 386 d
+:geoo/construction/rod_rust/straight_diagu8: 368 368 d
+:geoo/construction/rod_rust/straight_diagu8: 370 370 d
+:geoo/construction/rod_rust/straight_diagu8: 400 368 d
+:geoo/construction/rod_rust/straight_diagu8: 402 370 d
+:geoo/construction/rod_rust/straight_diagu8: 384 384 d
+:geoo/construction/rod_rust/straight_diagu8: 386 386 d
+:geoo/construction/rod_rust/straight_diagu8: 416 384 d
+:geoo/construction/rod_rust/straight_diagu8: 418 386 d
+:geoo/construction/rod_rust/straight_diagu8: 432 368 d
+:geoo/construction/rod_rust/straight_diagu8: 434 370 d
+:geoo/construction/rod_rust/straight_diagu8: 464 368 d
+:geoo/construction/rod_rust/straight_diagu8: 466 370 d
+:geoo/construction/rod_rust/straight_diagu8: 448 384 d
+:geoo/construction/rod_rust/straight_diagu8: 450 386 d
+:geoo/construction/rod_rust/straight_diagu8: 480 384 d
+:geoo/construction/rod_rust/straight_diagu8: 482 386 d
+:geoo/construction/rod_rust/straight_diagu8: 496 368 d
+:geoo/construction/rod_rust/straight_diagu8: 498 370 d
+:geoo/construction/rod_rust/straight_diagu8: 752 368 d
+:geoo/construction/rod_rust/straight_diagu8: 754 370 d
+:geoo/construction/rod_rust/straight_diagu8: 768 384 d
+:geoo/construction/rod_rust/straight_diagu8: 770 386 d
+:geoo/construction/rod_rust/straight_diagu8: 720 368 d
+:geoo/construction/rod_rust/straight_diagu8: 722 370 d
+:geoo/construction/rod_rust/straight_diagu8: 736 384 d
+:geoo/construction/rod_rust/straight_diagu8: 738 386 d
+:geoo/construction/rod_rust/straight_diagu8: 688 368 d
+:geoo/construction/rod_rust/straight_diagu8: 690 370 d
+:geoo/construction/rod_rust/straight_diagu8: 704 384 d
+:geoo/construction/rod_rust/straight_diagu8: 706 386 d
+:geoo/construction/rod_rust/straight_diagu8: 656 368 d
+:geoo/construction/rod_rust/straight_diagu8: 658 370 d
+:geoo/construction/rod_rust/straight_diagu8: 672 384 d
+:geoo/construction/rod_rust/straight_diagu8: 674 386 d
+:geoo/construction/rod_rust/straight_diagu8: 624 368 d
+:geoo/construction/rod_rust/straight_diagu8: 626 370 d
+:geoo/construction/rod_rust/straight_diagu8: 640 384 d
+:geoo/construction/rod_rust/straight_diagu8: 642 386 d
+:geoo/construction/rod_rust/straight_diagu8: 592 368 d
+:geoo/construction/rod_rust/straight_diagu8: 594 370 d
+:geoo/construction/rod_rust/straight_diagu8: 608 384 d
+:geoo/construction/rod_rust/straight_diagu8: 610 386 d
+:geoo/construction/rod_rust/straight_diagu8: 560 368 d
+:geoo/construction/rod_rust/straight_diagu8: 562 370 d
+:geoo/construction/rod_rust/straight_diagu8: 576 384 d
+:geoo/construction/rod_rust/straight_diagu8: 578 386 d
+:geoo/construction/rod_rust/straight_diagu8: 528 368 d
+:geoo/construction/rod_rust/straight_diagu8: 530 370 d
+:geoo/construction/rod_rust/straight_diagu8: 544 384 d
+:geoo/construction/rod_rust/straight_diagu8: 546 386 d
+:geoo/construction/rod_rust/straight_diagu8: 512 384 d
+:geoo/construction/rod_rust/straight_diagu8: 514 386 d
+:geoo/construction/rod_rust/straight_diagu8: 176 368 d
+:geoo/construction/rod_rust/straight_diagu8: 178 370 d
+:geoo/construction/rod_rust/straight_diagu8: 160 384 d
+:geoo/construction/rod_rust/straight_diagu8: 162 386 d
+:matt/oriental/02: 144 360
+:matt/oriental/leaves2: 704 4
+:matt/oriental/leaves3: 728 -8 r
+:matt/oriental/leaves4: 636 12
+:matt/oriental/leaves4: 622 0
+:matt/oriental/leaves4: 444 -16
+:matt/oriental/02: 432 6
+:matt/oriental/02: 432 -34
+:matt/oriental/leaves4: 542 10
+:matt/oriental/02: 560 6
+:matt/oriental/02: 560 -34
+:matt/oriental/leaves4: 636 -10
+:matt/oriental/leaves4: 270 12
+:matt/oriental/leaves4: 256 0
+:matt/oriental/leaves4: 270 -10
+:matt/oriental/leaves4: 184 12
+:matt/oriental/leaves4: 176 2
+:matt/oriental/leaves4: 190 -8

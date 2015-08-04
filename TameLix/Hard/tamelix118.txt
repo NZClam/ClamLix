@@ -1,0 +1,359 @@
+$BUILT 2014-02-10 20:42:41
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Louix XVIII
+
+#SIZE_X 1344
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 704
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 240
+#INITIAL 50
+#REQUIRED 49
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 20
+#FLOATER 20
+#EXPLODER 0
+#BLOCKER 1
+#BUILDER 20
+#BASHER 2
+#MINER 0
+#DIGGER 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/winter/Hatch.H: 992 112
+
+:matt/winter/Goal.G: 272 248
+
+:matt/winter/06: 528 256 r
+:matt/winter/06: 888 232 r
+:matt/winter/06: 922 232 rd
+:matt/winter/06: 1136 184 r
+:matt/winter/06: 562 256 rd
+:matt/winter/08: 120 96
+:matt/winter/07: 120 70
+:matt/winter/07: 104 50 r
+:matt/winter/08: 104 96
+:matt/winter/07: 104 70
+:matt/winter/06: 88 104 r
+:matt/winter/06: 24 104 r
+:matt/winter/14: 1282 352
+:matt/winter/10: 1096 320 rr
+:matt/winter/15: 1212 306
+:matt/winter/06: 488 176 fr
+:matt/winter/06: 488 160 fr
+:matt/winter/06: 488 144 fr
+:matt/winter/06: 1200 64 r
+:matt/winter/06: 1200 80 r
+:matt/marble/10a: 1248 80 d
+:matt/winter/06: 1136 152 r
+:matt/marble/001: 1136 144 d
+:matt/winter/08: 1136 152 fr
+:matt/winter/06: 1136 200 r
+:matt/winter/06: 1144 200 r
+:matt/winter/08: 1136 136 fr
+:matt/winter/08: 1136 120 fr
+:matt/winter/06: 1144 136 r
+:matt/winter/06: 1178 136 rd
+:matt/winter/08: 1176 136 r
+:matt/winter/06: 1144 152 r
+:matt/winter/06: 1178 152 rd
+:matt/winter/08: 1176 152 r
+:matt/winter/06: 1144 168 r
+:matt/winter/06: 1136 168 r
+:matt/winter/06: 1178 168 rd
+:matt/winter/13: 1212 128 rrr
+:matt/winter/08: 1176 168 r
+:matt/winter/06: 1144 184 r
+:matt/winter/06: 1178 184 rd
+:matt/winter/08: 1176 184 r
+:matt/marble/001: 1136 208 d
+:matt/winter/06: 1178 200 rd
+:matt/winter/08: 1176 200 r
+:matt/marble/001: 1136 176 d
+:matt/winter/08: 1136 184 fr
+:matt/winter/08: 1136 168 fr
+:matt/winter/08: 880 232 fr
+:matt/winter/08: 880 248 fr
+:matt/winter/06: 888 264 r
+:matt/winter/08: 880 264 fr
+:matt/winter/06: 888 280 r
+:matt/winter/08: 880 280 fr
+:matt/winter/06: 888 296 r
+:matt/winter/08: 880 296 fr
+:matt/winter/11: 864 160
+:matt/winter/06: 888 216 r
+:matt/winter/08: 880 216 fr
+:matt/winter/08: 880 200 fr
+:matt/winter/06: 888 200 r
+:matt/winter/06: 922 200 rd
+:matt/winter/08: 920 200 r
+:matt/winter/06: 922 264 rd
+:matt/winter/08: 920 264 r
+:matt/winter/06: 922 280 rd
+:matt/winter/08: 920 280 r
+:matt/winter/06: 922 296 rd
+:matt/winter/08: 920 296 r
+:matt/winter/06: 672 80 r
+:matt/winter/06: 706 80 rd
+:matt/winter/08: 704 80 r
+:matt/winter/06: 672 96 r
+:matt/winter/06: 706 96 rd
+:matt/winter/08: 704 96 r
+:matt/winter/06: 672 112 r
+:matt/winter/06: 706 112 rd
+:matt/winter/08: 704 112 r
+:matt/winter/06: 672 128 r
+:matt/winter/06: 706 128 rd
+:matt/winter/08: 704 128 r
+:matt/winter/06: 672 144 r
+:matt/winter/06: 706 144 rd
+:matt/winter/08: 704 144 r
+:matt/winter/06: 672 160 r
+:matt/winter/06: 706 160 rd
+:matt/winter/08: 704 160 r
+:matt/winter/08: 664 160 fr
+:matt/winter/08: 664 144 fr
+:matt/winter/08: 664 128 fr
+:matt/winter/08: 664 112 fr
+:matt/winter/08: 664 96 fr
+:matt/winter/08: 664 80 fr
+:matt/winter/06: 528 0 r
+:matt/winter/08: 520 0 fr
+:matt/winter/06: 528 16 r
+:matt/winter/08: 520 16 fr
+:matt/winter/06: 528 32 r
+:matt/winter/08: 520 32 fr
+:matt/winter/06: 528 48 r
+:matt/winter/08: 520 48 fr
+:matt/winter/08: 520 96 fr
+:matt/winter/08: 520 112 fr
+:matt/winter/06: 528 240 r
+:matt/winter/08: 520 240 fr
+:matt/winter/08: 520 256 fr
+:matt/winter/08: 520 272 fr
+:matt/winter/08: 520 288 fr
+:matt/winter/06: 562 0 rd
+:matt/winter/08: 560 0 r
+:matt/winter/06: 562 16 rd
+:matt/winter/08: 560 16 r
+:matt/winter/06: 562 32 rd
+:matt/winter/08: 560 32 r
+:matt/winter/06: 562 48 rd
+:matt/winter/08: 560 48 r
+:matt/winter/08: 560 64 r
+:matt/winter/06: 528 112 r
+:matt/winter/06: 562 112 rd
+:matt/winter/08: 560 112 r
+:matt/winter/08: 560 128 r
+:matt/winter/08: 560 144 r
+:matt/winter/08: 560 160 r
+:matt/winter/08: 560 176 r
+:matt/winter/08: 560 192 r
+:matt/winter/08: 560 208 r
+:matt/winter/06: 528 224 r
+:matt/winter/06: 562 224 rd
+:matt/winter/08: 560 224 r
+:matt/winter/06: 562 240 rd
+:matt/winter/08: 560 240 r
+:matt/winter/06: 922 216 rd
+:matt/winter/08: 520 224 fr
+:matt/winter/06: 488 208 fr
+:matt/winter/06: 488 192 fr
+:matt/winter/06: 488 128 fr
+:matt/winter/06: 498 80 fr
+:matt/winter/06: 498 64 fr
+:matt/marble/11a: 498 64 d
+:matt/winter/07: 1208 160 n
+:matt/winter/15: 1178 152 n
+:matt/winter/06: 1144 120 r
+:matt/winter/06: 498 128 fr
+:matt/winter/06: 498 144 fr
+:matt/marble/12a: 488 144 d
+:matt/winter/06: 498 160 fr
+:matt/winter/06: 498 176 fr
+:matt/winter/06: 498 192 fr
+:matt/winter/06: 498 208 fr
+:matt/marble/12a: 504 208 d
+:matt/winter/06: 488 160 fd
+:matt/winter/08: 664 64 fr
+:matt/winter/08: 664 48 fr
+:matt/winter/08: 664 32 fr
+:matt/winter/08: 664 16 fr
+:matt/winter/08: 664 0 fr
+:matt/winter/06: 672 0 r
+:matt/winter/06: 706 0 rd
+:matt/winter/08: 704 0 r
+:matt/winter/06: 672 16 r
+:matt/winter/06: 706 16 rd
+:matt/winter/08: 704 16 r
+:matt/winter/06: 672 32 r
+:matt/winter/06: 706 32 rd
+:matt/winter/08: 704 32 r
+:matt/winter/06: 672 48 r
+:matt/winter/06: 706 48 rd
+:matt/winter/08: 704 48 r
+:matt/winter/06: 672 64 r
+:matt/winter/06: 706 64 rd
+:matt/winter/00: 742 14
+:matt/winter/08: 704 64 r
+:matt/winter/15: 288 320
+:matt/winter/06: 320 312 r
+:matt/winter/06: 526 80 fr
+:matt/winter/06: 526 96 fr
+:matt/winter/06: 584 80 fd
+:matt/marble/10a: 568 96 d
+:matt/winter/06: 1178 120 rd
+:matt/winter/08: 1176 120 r
+:matt/winter/07: 1280 184
+:matt/winter/06: 1280 248
+:matt/winter/06: 888 248 r
+:matt/winter/06: 922 248 rd
+:matt/winter/06: 528 272 r
+:matt/winter/06: 528 288 r
+:matt/winter/06: 562 272 rd
+:matt/winter/06: 562 288 rd
+:matt/winter/07: 192 232
+:matt/winter/06: 112 248
+:matt/winter/06: 192 296
+:matt/winter/03: 108 310
+:matt/winter/06: 256 312 r
+:matt/winter/15: 185 310 rr
+:matt/winter/10: 96 336
+:matt/winter/15: 293 324 rr
+:matt/winter/10: 208 336
+:matt/winter/05: 103 308 frrr
+:matt/winter/06: 112 232
+:matt/winter/07: 112 168
+:matt/winter/08: 198 228
+:matt/winter/08: 178 274
+:matt/winter/08: 206 274
+:matt/winter/06: 136 104 r
+:matt/winter/05: 0 104 rrr
+:matt/winter/05: 0 104 frrr
+:matt/winter/08: 146 50 fr
+:matt/winter/08: 1266 220
+:matt/winter/08: 1296 238
+:matt/winter/08: 1292 202
+:matt/winter/08: 1270 184
+:matt/winter/07: 74 50 fr
+:matt/winter/08: 86 50 r
+:matt/winter/18: 102 56 rr
+:matt/marble/01a: 98 46 d
+:matt/winter/07: 108 -10
+:matt/marble/01a: 127 46 d
+:matt/winter/18: 102 48
+:matt/winter/07: 118 -10
+:matt/winter/09c: 113 32
+:matt/marble/01a: 155 54 d
+:matt/marble/01a: 71 54 d
+:matt/winter/18: 103 48 frr
+:matt/winter/18: 103 56 f
+:geoo/abstract/cvblocks/012: 102 62 d
+:geoo/abstract/cvblocks/011: 130 62 d
+:matt/marble/00a: 102 76 d
+:matt/marble/00a: 130 76 d
+:matt/marble/00a: 115 84 d
+:matt/marble/00a: 117 84 d
+:matt/marble/thinplatform8p: 137 62 rrrd
+:matt/marble/thinplatform8p: 119 96 rrrd
+:matt/winter/00: 102 -32 d
+:matt/winter/00: 60 -32 frrd
+:matt/winter/05: 974 22 rrr
+:matt/winter/17: 1163 8 frr
+:matt/winter/10: 1039 -43 frr
+:matt/winter/10: 863 -62 frr
+:matt/winter/05: 880 14 frrr
+:matt/winter/00: 1077 41
+:matt/winter/11: 1119 59
+:matt/winter/15: 922 308
+:matt/winter/15: 978 306
+:matt/winter/10: 760 320
+:matt/winter/10: 888 320
+:matt/winter/03: 1040 300
+:matt/winter/10: 992 304 rr
+:matt/winter/05: 1181 213 rr
+:matt/winter/00: 1086 214
+:matt/winter/18: 720 312
+:matt/winter/07: 730 96
+:matt/winter/18: 736 190
+:matt/winter/06: 730 160
+:matt/winter/18: 720 174
+:matt/winter/00: 658 164 rr
+:matt/winter/00: 700 186 rr
+:matt/winter/00: 728 228 rr
+:matt/winter/10: 732 260
+:matt/winter/00: 834 122 rr
+:matt/winter/00: 828 96 rr
+:matt/winter/10: 721 -63 frr
+:matt/winter/05: 730 6 rrr
+:matt/winter/11: 566 260
+:matt/winter/10: 600 336
+:matt/winter/11: 546 254 n
+:matt/winter/00: 460 298
+:matt/winter/10: 368 296
+:matt/winter/10: 328 304
+:matt/winter/05: 610 0 rrrn
+:matt/winter/10: 560 -36 n
+:matt/winter/15: 528 44 n
+:matt/winter/05: 884 208 frn
+:matt/winter/08: 920 216 r
+:matt/winter/08: 1136 200 fr
+:matt/winter/15: 1114 212 f
+:matt/winter/05: 1146 214 rr
+:matt/winter/15: 1058 208 rrn
+:matt/winter/08: 560 256 r
+:matt/winter/08: 560 272 r
+:matt/winter/08: 560 288 r
+:matt/winter/17: 518 302 rr
+:matt/winter/10: 424 336
+:matt/winter/05: 590 312 r
+:matt/winter/08: 480 128 fr
+:matt/winter/08: 490 80 fr
+:matt/winter/08: 1262 64 r
+:matt/winter/13: 1206 136 rrr
+:matt/winter/08: 920 232 r
+:matt/winter/08: 920 248 r
+:matt/winter/17: 1256 304 f
+:matt/winter/18: 874 68 frrd
+:matt/winter/07: 870 96 n
+:matt/winter/07: 862 120 rn
+:matt/winter/07: 816 352
+:matt/winter/06: 832 376
+:matt/winter/07: 832 312
+:matt/winter/07: 824 352
+:matt/winter/07: 844 352
+:matt/winter/07: 928 -16 f
+:matt/winter/07: 784 -32 f
+:matt/winter/07: 768 -40 f
+:matt/winter/07: 632 -24 f
+:matt/winter/07: 1136 -32 f
+:matt/winter/07: 1176 -16 f
+:matt/winter/07: 1184 352
+:matt/winter/06: 1200 360
+:matt/winter/07: 1200 296
+:matt/winter/07: 1192 352
+:matt/winter/07: 1212 352
+:matt/winter/08: 582 80 r
+:matt/winter/08: 496 160 fr
+:matt/winter/08: 496 176 fr
+:matt/winter/08: 496 192 fr
+:matt/winter/18: 894 80 frrd
+:matt/winter/08: 876 92
+:matt/winter/11: 800 86 rrr
+:matt/winter/15: 786 44 frrr
+:matt/winter/08: 730 88
+:matt/winter/08: 742 120
+:matt/winter/08: 716 138
+:matt/winter/08: 814 80 d

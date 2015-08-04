@@ -1,0 +1,18 @@
+Welcome to TameLix!
+This pack contains the Tame levels
+from Oh No! More Lemmings, lovingly
+rebuilt using Lix terrain and skills.
+
+There are two sets:
+
+Easy: Levels have 10 of each skill,
+including the new Lix skills!
+
+Hard: Challenges with tougher save
+requirements, skills and time limits.
+All can be done in the original
+DOS game as well.
+
+Thanks for playing!
+
+- Clam 8()

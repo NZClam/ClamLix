@@ -1,0 +1,161 @@
+$BUILT 2015-08-04 20:41:35
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Pick Your Poison
+
+#SIZE_X 1664
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 0
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 240
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#MINER 20
+
+:matt/underworld/Hatch.H: 288 178
+
+:matt/underworld/Goal.G: 1504 304
+
+:matt/underworld/Lava.W: 0 352
+:matt/underworld/Lava.W: 48 352
+:matt/underworld/Lava.W: 96 352
+
+:matt/underworld/thinplatform64: 1279 23 rrr
+:matt/underworld/thinplatform64: 1247 15 rrr
+:matt/underworld/02: 1216 -64
+:matt/underworld/07: 1176 314
+:matt/underworld/05: 368 310 r
+:matt/underworld/05: 392 234 fr
+:matt/underworld/05: 385 226 r
+:matt/underworld/05: 396 274 frrr
+:matt/underworld/06: 404 348 f
+:matt/underworld/08: 448 362
+:matt/underworld/06: 536 354 frr
+:matt/underworld/06: 584 322 frr
+:matt/underworld/06: 632 274 frr
+:matt/underworld/06: 720 178 frr
+:matt/underworld/07: 680 234
+:matt/underworld/08: 744 146 frr
+:matt/underworld/07: 792 146
+:matt/underworld/06: 832 178
+:matt/underworld/08: 848 218
+:matt/underworld/07: 904 258 frr
+:matt/underworld/06: 950 298
+:matt/underworld/08: 979 330 frrr
+:matt/underworld/08: 1066 354 f
+:matt/underworld/06: 770 258
+:matt/underworld/06: 684 314
+:matt/underworld/06: 778 318
+:matt/underworld/06: 872 320
+:matt/underworld/06: 270 292
+:matt/underworld/08: 326 316
+:matt/underworld/08: 213 252
+:matt/underworld/06: 174 225
+:matt/underworld/06: 109 294
+:matt/underworld/06: 88 277
+:matt/underworld/07: 55 223
+:matt/underworld/04: 3 164
+:matt/underworld/05: 16 131 frr
+:matt/underworld/07: 45 159
+:matt/underworld/06: 94 221
+:matt/underworld/09a: 54 234 n
+:matt/underworld/09a: 34 214 n
+:matt/underworld/09c: 4 194 n
+:matt/underworld/06: 156 326
+:matt/underworld/08: 1099 355 f
+:matt/underworld/00: 1154 316 fr
+:matt/underworld/07: 1192 306
+:matt/underworld/00: 1170 316 fr
+:matt/underworld/04: 1278 316 rr
+:matt/underworld/07: 1278 326 rr
+:matt/underworld/04: 1342 348
+:matt/underworld/04: 1368 366
+:matt/underworld/05: 1410 360 rrr
+:matt/underworld/05: 1430 354 rrr
+:matt/underworld/05: 1404 368 rrr
+:matt/underworld/01: 1472 368
+:matt/underworld/05: 1444 368 frrr
+:matt/underworld/01: 1536 368
+:matt/underworld/01: 1600 368
+:matt/underworld/02: 1600 272
+:matt/underworld/00: 1154 380 fr
+:matt/underworld/00: 1170 380 fr
+:matt/underworld/06: 248 334
+:matt/underworld/06: 630 66 f
+:matt/underworld/06: 742 -14 f
+:matt/underworld/06: 678 18 f
+:matt/underworld/07: 582 110 rr
+:matt/underworld/06: 542 162 f
+:matt/underworld/08: 504 180 f
+:matt/underworld/07: 1041 171 rr
+:matt/underworld/06: 1009 151 rr
+:matt/underworld/08: 963 105 rr
+:matt/underworld/07: 937 83 f
+:matt/underworld/06: 889 39 rr
+:matt/underworld/08: 848 -7 fr
+:matt/underworld/05: 784 40
+:matt/underworld/06: 408 101
+:matt/underworld/07: 375 47
+:matt/underworld/06: 476 150
+:matt/underworld/06: 429 118
+:matt/underworld/06: 1128 -16 r
+:matt/underworld/08: 1104 32 r
+:matt/underworld/06: 1072 80 r
+:matt/underworld/08: 1040 144 r
+:matt/underworld/06: 352 0
+:matt/underworld/06: 406 -18
+:matt/underworld/06: 486 82
+:matt/underworld/06: 550 -18
+:matt/underworld/06: 486 -22
+:matt/underworld/06: 546 66
+:matt/underworld/06: 614 -8
+:matt/underworld/06: 688 -32
+:matt/underworld/07: 322 -28
+:matt/underworld/07: 300 -64
+:matt/underworld/06: 462 26
+:matt/underworld/06: 822 -26
+:matt/underworld/06: 910 -36
+:matt/underworld/06: 972 20
+:matt/underworld/06: 1026 58
+:matt/underworld/06: 1070 -24
+:matt/underworld/06: 982 -44
+:matt/underworld/02: 1600 0
+:matt/underworld/02: 1600 64
+:matt/underworld/thinplatform64: 1551 65 rrr
+:matt/underworld/thinplatform64: 1535 81 rrr
+:matt/underworld/thinplatform64: 1583 73 rrr
+:matt/underworld/02: 1536 0
+:matt/underworld/thinplatform64: 1487 65 rrr
+:matt/underworld/thinplatform64: 1519 73 rrr
+:matt/underworld/thinplatform64: 1471 81 rrr
+:matt/underworld/02: 1472 0
+:matt/underworld/thinplatform64: 1455 65 rrr
+:matt/underworld/thinplatform64: 1439 57 rrr
+:matt/underworld/thinplatform64: 1423 41 rrr
+:matt/underworld/02: 1408 0
+:matt/underworld/thinplatform64: 1391 17 rrr
+:matt/underworld/thinplatform64: 1375 33 rrr
+:matt/underworld/thinplatform64: 1359 17 rrr
+:matt/underworld/02: 1344 -32
+:matt/underworld/thinplatform64: 1311 17 rrr
+:matt/underworld/thinplatform64: 1327 1 rrr
+:matt/underworld/thinplatform64: 1295 1 rrr
+:matt/underworld/02: 1280 -64
+:matt/underworld/02: 1504 16
+:matt/underworld/thinplatform64: 1263 31 rrr
+:matt/underworld/09b: 56 296 frrn
+:matt/underworld/09b: 106 368 frrn
+:matt/underworld/09c: 88 348 n
+:matt/underworld/02: 792 0
+:matt/underworld/02: 792 144
+:matt/underworld/02: 792 240
+:matt/underworld/02: 792 336

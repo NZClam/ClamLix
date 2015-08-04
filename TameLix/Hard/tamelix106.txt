@@ -1,0 +1,151 @@
+$BUILT 2015-08-04 20:39:24
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Call a Spade a Spade
+
+#SIZE_X 1696
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 336
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 32
+
+#SECONDS 240
+#INITIAL 50
+#REQUIRED 50
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 1
+#MINER 1
+#DIGGER 1
+
+:matt/beach/decor/bonfire.D: 1393 272
+:matt/beach/decor/moon.D: 1632 96
+
+:matt/beach/Hatch.H: 504 96
+
+:matt/beach/goal.G: 1264 248
+
+:matt/beach/decor/shovel: 808 136
+:matt/marble/thinplatform8p: 818 155 d
+:matt/beach/decor/shovel: 936 232
+:matt/beach/decor/shovel: 344 128
+:matt/beach/nighttime/05: 552 208 r
+:matt/beach/nighttime/05: 792 214 r
+:matt/beach/nighttime/13: 960 112
+:matt/beach/nighttime/05: 594 232 r
+:matt/beach/nighttime/03: 682 226
+:matt/beach/nighttime/03: 840 214
+:matt/beach/nighttime/00: 980 194 frr
+:matt/beach/nighttime/05: 320 212 fr
+:matt/beach/nighttime/05: 470 212 r
+:matt/beach/nighttime/03: 442 210
+:matt/beach/nighttime/03: 508 206 rr
+:matt/beach/nighttime/05: 222 216 r
+:matt/beach/nighttime/03: 296 214
+:matt/beach/nighttime/14: 1028 52 f
+:matt/beach/nighttime/03: 1038 68 r
+:matt/beach/nighttime/04: 858 320 rrr
+:matt/beach/nighttime/05: 976 312 r
+:matt/beach/nighttime/05: 1111 312 r
+:matt/beach/nighttime/04: 1520 200
+:matt/beach/nighttime/05: 1296 312 r
+:matt/beach/nighttime/05: 1416 296 r
+:matt/beach/nighttime/04: 1576 240
+:matt/beach/nighttime/04: 1504 192
+:matt/beach/nighttime/06: 1424 320
+:matt/beach/nighttime/06: 1264 336
+:matt/beach/nighttime/06: 1104 328
+:matt/beach/nighttime/06: 952 336
+:matt/beach/nighttime/05: 794 218 r
+:matt/beach/nighttime/03: 810 320
+:matt/beach/nighttime/15: 900 282 rrd
+:matt/beach/nighttime/15: 891 279 rrd
+:matt/beach/nighttime/15: 881 278 rrd
+:matt/beach/nighttime/05: 620 322 fr
+:matt/beach/nighttime/05: 476 316 fr
+:matt/beach/nighttime/05: 310 318 r
+:matt/beach/nighttime/05: 100 318 r
+:matt/beach/nighttime/03: 434 314
+:matt/beach/nighttime/03: 222 314
+:matt/beach/nighttime/04: 60 286 frr
+:matt/beach/nighttime/04: 56 172 f
+:matt/beach/nighttime/02: 218 162
+:matt/beach/nighttime/02: 182 134 frr
+:matt/beach/nighttime/14: 110 46
+:matt/beach/nighttime/02: 102 144 fr
+:matt/beach/nighttime/05: 0 12 fr
+:matt/beach/nighttime/05: 90 -18 fr
+:matt/beach/nighttime/05: 194 12 fr
+:matt/beach/nighttime/05: 86 28 fr
+:matt/beach/nighttime/05: 480 30 r
+:matt/beach/nighttime/05: 652 34 r
+:matt/beach/nighttime/05: 860 34 r
+:matt/beach/nighttime/06: 332 -22 rr
+:matt/beach/nighttime/05: 1110 42 r
+:matt/beach/nighttime/05: 1422 28 r
+:matt/beach/nighttime/04: 1280 12 rrr
+:matt/beach/nighttime/05: 1468 8 r
+:matt/beach/nighttime/00: 1618 -18
+:matt/beach/nighttime/06: 1418 -58
+:matt/beach/nighttime/06: 1232 -34 frr
+:matt/beach/nighttime/06: 1098 -40
+:matt/beach/nighttime/06: 988 4
+:matt/beach/nighttime/06: 902 -50
+:matt/beach/nighttime/06: 752 -40
+:matt/beach/nighttime/06: 590 -46
+:matt/beach/nighttime/06: 490 -42
+:matt/beach/nighttime/06: 252 -48
+:matt/beach/nighttime/06: 172 336
+:matt/beach/nighttime/06: 348 340
+:matt/beach/nighttime/06: 532 334
+:matt/beach/nighttime/06: 710 334
+:matt/beach/nighttime/14: 1232 312 rr
+:matt/beach/nighttime/14: 1264 312 rr
+:matt/beach/nighttime/14: 1296 312 rr
+:matt/beach/nighttime/14: 1328 312 rr
+:matt/beach/nighttime/14: 1352 312 rr
+:matt/marble/thinplatform8p: 354 147 d
+:matt/beach/decor/grass02: 1256 312
+:matt/beach/decor/grass02: 1304 312
+:matt/beach/decor/grass08: 1232 328
+:matt/beach/decor/grass08: 1336 328 frr
+:matt/beach/decor/grass02: 1280 328
+:matt/beach/decor/grass08: 1336 368 frr
+:matt/beach/decor/grass02: 1296 336
+:matt/beach/decor/grass02: 1304 344
+:matt/beach/decor/grass02: 1264 344
+:matt/beach/decor/grass02: 1264 360
+:matt/beach/decor/grass08: 1232 368
+:matt/beach/decor/grass08: 1232 344
+:matt/beach/decor/grass08: 1232 312
+:matt/beach/decor/grass02: 1296 360
+:matt/beach/decor/grass08: 1336 344 frr
+:matt/beach/decor/grass08: 1336 312 frr
+:matt/beach/decor/shovel: 984 72 rrr
+:matt/beach/decor/shovel: 1048 72 r
+:matt/beach/decor/shovel: 1048 72 rr
+:matt/beach/decor/shovel: 1048 8
+:matt/beach/decor/shovel: 1592 298 rrr
+:matt/beach/decor/shovel: 1508 298 r
+:matt/beach/decor/shovel: 1582 308
+:matt/beach/decor/shovel: 1582 224 rr
+:matt/beach/decor/shovel: 104 294
+:matt/beach/decor/shovel: 104 210 rr
+:matt/beach/decor/shovel: 136 98
+:matt/beach/decor/shovel: 136 14 rr
+:matt/beach/decor/shovel: 1392 312
+:matt/beach/decor/shovel: 1208 312
+:matt/beach/nighttime/14: 1200 312 rrn
+:matt/beach/nighttime/14: 1180 312 rrn
+:matt/beach/decor/grass08: 848 368 frr
+:matt/beach/decor/grass08: 720 352 frr
+:matt/beach/decor/grass08: 576 384 frr
+:matt/beach/decor/grass08: 304 336 frr
+:matt/beach/decor/grass08: 304 368 frr
+:matt/beach/decor/grass08: 496 368 frr
+:matt/beach/decor/grass08: 160 368 frr

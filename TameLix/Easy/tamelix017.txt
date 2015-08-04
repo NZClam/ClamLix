@@ -1,0 +1,197 @@
+$BUILT 2015-08-04 20:30:07
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH I Had the Time of my Lix
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 0
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 10
+#JUMPER 10
+#CLIMBER 10
+#FLOATER 10
+#EXPLODER2 10
+#BATTER 10
+#BLOCKER 10
+#BUILDER 10
+#PLATFORMER 10
+#BASHER 10
+#MINER 10
+#DIGGER 10
+
+:geoo/sandstone/Hatch.H: 64 64
+
+:geoo/sandstone/Goal.G: 96 208
+
+:geoo/sandstone/32x32: 32 144
+:geoo/sandstone/32x32: 64 144
+:geoo/sandstone/32x32: 96 144
+:geoo/sandstone/32x32: 128 144
+:geoo/sandstone/32x32: 160 144
+:geoo/sandstone/32x32: 304 208
+:geoo/sandstone/32x32: 336 208
+:geoo/sandstone/32x32: 368 208
+:geoo/sandstone/32x32: 400 208
+:geoo/sandstone/32x32: 400 240
+:geoo/sandstone/32x32: 384 272
+:geoo/sandstone/32x32: 416 272
+:geoo/sandstone/32x32: 448 272
+:geoo/sandstone/32x32: 480 272
+:geoo/sandstone/32x32: 512 272
+:geoo/sandstone/32x32: 544 272
+:geoo/sandstone/32x32: 352 272
+:geoo/sandstone/32x32: 320 272
+:geoo/sandstone/32x32: 288 272
+:geoo/sandstone/32x32: 256 272
+:geoo/sandstone/32x32: 224 272
+:geoo/sandstone/32x32: 192 272
+:geoo/sandstone/32x32: 160 272
+:geoo/sandstone/32x32: 128 272
+:geoo/sandstone/32x32: 96 272
+:geoo/sandstone/32x32: 64 272
+:geoo/sandstone/32x32: 512 240
+:geoo/sandstone/32x32: 512 208
+:geoo/sandstone/32x32: 512 176
+:geoo/sandstone/32x32: 512 144
+:geoo/sandstone/32x32: 512 112
+:geoo/sandstone/32x32: 512 80
+:geoo/sandstone/16x8: 192 144
+:geoo/sandstone/16x8: 204 152
+:geoo/sandstone/16x8: 216 160
+:geoo/sandstone/16x8: 228 168
+:geoo/sandstone/16x8: 240 176
+:geoo/sandstone/16x8: 252 184
+:geoo/sandstone/16x8: 264 192
+:geoo/sandstone/16x8: 276 200
+:geoo/sandstone/16x8: 288 208
+:geoo/sandstone/16x8: 192 168
+:geoo/sandstone/16x8: 204 176
+:geoo/sandstone/16x8: 216 184
+:geoo/sandstone/16x8: 228 192
+:geoo/sandstone/16x8: 240 200
+:geoo/sandstone/16x8: 252 208
+:geoo/sandstone/16x8: 264 216
+:geoo/sandstone/16x8: 276 224
+:geoo/sandstone/16x8: 288 232
+:geoo/sandstone/ribbon_end: 608 48
+:geoo/sandstone/ribbon_end: 608 80
+:geoo/sandstone/ribbon_end: 608 112
+:geoo/sandstone/ribbon_end: 608 144
+:geoo/sandstone/ribbon_end: 608 176
+:geoo/sandstone/ribbon_end: 608 208
+:geoo/sandstone/ribbon_end: 608 240
+:geoo/sandstone/ribbon_end: 608 272
+:geoo/sandstone/ribbon_end: 608 304
+:geoo/sandstone/ebony/h16a: 432 224
+:geoo/sandstone/ebony/h16a: 464 224
+:geoo/sandstone/ebony/h16r: 496 224
+:geoo/sandstone/64x32_blank: 0 336
+:geoo/sandstone/64x32_blank: 64 336
+:geoo/sandstone/64x32_blank: 128 336
+:geoo/sandstone/64x32_blank: 192 336
+:geoo/sandstone/64x32_blank: 256 336
+:geoo/sandstone/64x32_blank: 320 336
+:geoo/sandstone/64x32_blank: 384 336
+:geoo/sandstone/64x32_blank: 448 336
+:geoo/sandstone/64x32_blank: 512 336
+:geoo/sandstone/64x32_blank: 576 336
+:geoo/sandstone/ribbon_end: 0 48
+:geoo/sandstone/ribbon_end: 0 80
+:geoo/sandstone/ribbon_end: 0 112
+:geoo/sandstone/ribbon_end: 0 144
+:geoo/sandstone/ribbon_end: 0 176
+:geoo/sandstone/ribbon_end: 0 208
+:geoo/sandstone/ribbon_end: 0 240
+:geoo/sandstone/ribbon_end: 0 272
+:geoo/sandstone/ribbon_end: 0 304
+:geoo/sandstone/64x32_blank: -32 368
+:geoo/sandstone/64x32_blank: 32 368
+:geoo/sandstone/64x32_blank: 96 368
+:geoo/sandstone/64x32_blank: 160 368
+:geoo/sandstone/64x32_blank: 224 368
+:geoo/sandstone/64x32_blank: 288 368
+:geoo/sandstone/64x32_blank: 352 368
+:geoo/sandstone/64x32_blank: 416 368
+:geoo/sandstone/64x32_blank: 480 368
+:geoo/sandstone/64x32_blank: 544 368
+:geoo/sandstone/64x32_blank: 608 368
+:geoo/sandstone/64x16: 0 32
+:geoo/sandstone/64x16: 64 32
+:geoo/sandstone/64x16: 128 32
+:geoo/sandstone/64x16: 192 32
+:geoo/sandstone/64x16: 256 32
+:geoo/sandstone/64x16: 320 32
+:geoo/sandstone/64x16: 384 32
+:geoo/sandstone/64x16: 448 32
+:geoo/sandstone/64x16: 512 32
+:geoo/sandstone/64x16: 576 32
+:geoo/sandstone/ebony/h16l: 336 192
+:geoo/sandstone/ebony/h16r: 352 192
+:geoo/sandstone/ebony/v8a: 348 144
+:geoo/sandstone/ebony/h16l: 336 176
+:geoo/sandstone/ebony/h16r: 352 176
+:geoo/sandstone/ebony/h16l: 304 80
+:geoo/sandstone/ebony/h16r: 320 80
+:geoo/sandstone/ebony/h16l: 368 80
+:geoo/sandstone/ebony/h16r: 384 80
+:geoo/sandstone/ebony/h16l: 304 96
+:geoo/sandstone/ebony/h16l: 320 112
+:geoo/sandstone/ebony/h16l: 336 128
+:geoo/sandstone/ebony/h16r: 384 96
+:geoo/sandstone/ebony/h16r: 368 112
+:geoo/sandstone/ebony/h16r: 352 128
+:geoo/sandstone/ebony/h16a: 320 96
+:geoo/sandstone/ebony/h16a: 352 96
+:geoo/sandstone/ebony/h16a: 336 112
+:geoo/sandstone/ebony/v8a: 316 48
+:geoo/sandstone/ebony/v8a: 380 48
+:geoo/sandstone/ebony/h16l: 416 160
+:geoo/sandstone/ebony/h16r: 432 160
+:geoo/sandstone/ebony/h16l: 416 112
+:geoo/sandstone/ebony/h16r: 432 112
+:geoo/sandstone/ebony/h16l: 400 128
+:geoo/sandstone/ebony/h16r: 448 128
+:geoo/sandstone/ebony/h16l: 400 144
+:geoo/sandstone/ebony/h16r: 448 144
+:geoo/sandstone/ebony/h16a: 416 128
+:geoo/sandstone/ebony/h16a: 416 144
+:geoo/sandstone/ebony/v8a: 428 80
+:geoo/sandstone/ebony/v8a: 428 48
+:geoo/sandstone/64x16: 32 16
+:geoo/sandstone/64x16: 96 16
+:geoo/sandstone/64x16: 160 16
+:geoo/sandstone/64x16: 224 16
+:geoo/sandstone/64x16: 288 16
+:geoo/sandstone/64x16: 352 16
+:geoo/sandstone/64x16: 416 16
+:geoo/sandstone/64x16: 480 16
+:geoo/sandstone/64x16: 544 16
+:geoo/sandstone/64x16: 0 0
+:geoo/sandstone/64x16: 64 0
+:geoo/sandstone/64x16: 128 0
+:geoo/sandstone/64x16: 192 0
+:geoo/sandstone/64x16: 256 0
+:geoo/sandstone/64x16: 320 0
+:geoo/sandstone/64x16: 384 0
+:geoo/sandstone/64x16: 448 0
+:geoo/sandstone/64x16: 512 0
+:geoo/sandstone/64x16: 576 0
+:geoo/sandstone/32x16: 0 16
+:geoo/sandstone/32x16: 608 16
+:geoo/sandstone/64x32_blank: 624 368 d
+:geoo/sandstone/64x32_blank: 576 368 n
+:geoo/sandstone/64x32_blank: -48 368 d
+:geoo/sandstone/64x32_blank: 0 368 n

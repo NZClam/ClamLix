@@ -1,0 +1,161 @@
+$BUILT 2014-02-08 15:40:52
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Clock Around the Rock
+
+#SIZE_X 1530
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 614
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 240
+#INITIAL 50
+#REQUIRED 50
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 2
+#FLOATER 0
+#EXPLODER 0
+#BLOCKER 1
+#BUILDER 0
+#BASHER 1
+#MINER 1
+#DIGGER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/earth/Hatch.H: 664 168
+
+:matt/earth/Goal.G: 1168 184
+
+:matt/earth/10: 1274 -38
+:matt/earth/14: 436 280 frr
+:matt/earth/14: 420 264 frr
+:matt/earth/14: 404 248 frr
+:matt/earth/03: 216 316
+:matt/earth/11: 854 230
+:matt/earth/11: 862 130
+:matt/earth/14: 860 86 frr
+:matt/earth/14: 854 122 frr
+:matt/earth/14: 852 164 frr
+:matt/earth/11: 870 182
+:matt/earth/14: 844 196 frr
+:matt/earth/11: 886 230
+:matt/earth/14: 388 232 frr
+:matt/earth/15: 1160 244 rr
+:matt/earth/11: 1144 252
+:matt/earth/14: 1136 248 frrr
+:matt/winter/06: 1128 248 d
+:matt/earth/11: 1190 256
+:matt/earth/14: 1206 248 rrr
+:matt/earth/10: 1178 272
+:matt/winter/06: 1128 232 rrrd
+:matt/earth/16: 16 240
+:matt/earth/05: 60 146 f
+:matt/earth/05: 96 142
+:matt/earth/03: 120 318
+:matt/earth/17: 96 264 frr
+:matt/earth/10: 306 282
+:matt/earth/10: 352 282
+:matt/earth/10: 432 352
+:matt/earth/10: 240 320
+:matt/earth/10: 128 336
+:matt/earth/10: 18 336
+:matt/earth/05: 480 304 r
+:matt/earth/10: 560 336
+:matt/earth/05: 528 296 rrr
+:matt/earth/14: 840 238 frr
+:matt/earth/10: 762 254
+:matt/earth/10: 720 256
+:matt/earth/10: 720 334
+:matt/earth/10: 952 260
+:matt/earth/10: 868 248
+:matt/earth/17: 1038 269 rrr
+:matt/earth/10: 848 320
+:matt/earth/10: 1024 320
+:matt/earth/10: 1168 336
+:matt/earth/10: 1072 272
+:matt/earth/04: 1296 304
+:matt/earth/04: 1244 182
+:matt/winter/06: 1192 232 rrrd
+:matt/earth/04: 1262 164
+:matt/earth/16: 1320 116 rr
+:matt/earth/10: 1194 -54
+:matt/earth/10: 1278 38 rr
+:matt/earth/17: 1446 -14 rr
+:matt/earth/04: 1194 -16 f
+:matt/earth/04: 1256 34 f
+:matt/earth/05: 1272 88
+:matt/earth/05: -2 318
+:matt/earth/28: 76 2 frr
+:matt/earth/20: 80 -4
+:matt/earth/20: 176 -4
+:matt/earth/29: 138 28
+:matt/earth/28: 152 34
+:matt/earth/27: 312 44
+:matt/earth/27: 256 44
+:matt/earth/29: 242 42
+:matt/earth/27: 182 30 frr
+:matt/earth/28: 106 18
+:matt/earth/20: 92 14
+:matt/earth/20: 188 14
+:matt/earth/20: 272 -4
+:matt/earth/20: 368 -4
+:matt/earth/28: 294 30
+:matt/earth/20: 284 14
+:matt/earth/20: 380 14
+:matt/earth/20: 464 -4
+:matt/earth/20: 560 -4
+:matt/earth/20: 476 14
+:matt/earth/20: 572 14
+:matt/earth/20: 656 -4
+:matt/earth/20: 752 -4
+:matt/earth/20: 668 14
+:matt/earth/20: 764 14
+:matt/earth/20: 224 32
+:matt/earth/27: 444 50 frr
+:matt/earth/27: 386 44
+:matt/earth/27: 330 42 frr
+:matt/earth/20: 320 32
+:matt/earth/20: 416 32
+:matt/earth/20: 512 32
+:matt/earth/27: 530 68
+:matt/earth/27: 496 64
+:matt/earth/20: 476 50
+:matt/earth/27: 606 64 frr
+:matt/earth/20: 572 50
+:matt/earth/29: 686 60
+:matt/earth/27: 704 62 frr
+:matt/earth/20: 668 50
+:matt/earth/20: 608 32
+:matt/earth/29: 802 52 frr
+:matt/earth/20: 704 32
+:matt/earth/20: 848 -4
+:matt/earth/27: 970 46 frr
+:matt/earth/27: 820 46 frr
+:matt/earth/27: 858 50
+:matt/earth/27: 892 42
+:matt/earth/28: 940 34 frr
+:matt/earth/20: 860 14
+:matt/earth/20: 944 -4
+:matt/earth/27: 1014 30 frr
+:matt/earth/20: 956 14
+:matt/earth/20: 1040 -4
+:matt/earth/27: 1054 32
+:matt/earth/28: 1120 22 frr
+:matt/earth/20: 1052 14
+:matt/earth/22: 1136 -4
+:matt/earth/04: 1132 -68 f
+:matt/earth/20: 800 32
+:matt/earth/20: 896 32
+:matt/earth/21: 764 50
+:matt/earth/28: 994 44 frr
+:matt/earth/21: 992 32

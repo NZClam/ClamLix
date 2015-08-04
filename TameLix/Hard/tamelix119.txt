@@ -1,0 +1,735 @@
+$BUILT 2014-02-08 15:07:34
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Showtime!
+
+#SIZE_X 1524
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 640
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 240
+#INITIAL 50
+#REQUIRED 49
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#CLIMBER 1
+#FLOATER 1
+#EXPLODER 1
+#BLOCKER 1
+#BUILDER 1
+#BASHER 1
+#MINER 1
+#DIGGER 1
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+#NOTHING 0
+
+:matt/oriental/Hatch.H: 704 24
+
+:matt/oriental/Goal.G: 1156 204
+
+:matt/oriental/bridge_angle: -94 396
+:matt/oriental/bridge_angle: 2 370
+:matt/oriental/bridge_angle: 2 364
+:matt/oriental/bridge_angle: 2 358
+:matt/oriental/bridge_angle: 2 352
+:matt/oriental/bridge_angle: 2 346
+:matt/oriental/bridge_angle: 2 340
+:matt/oriental/bridge_angle: 2 398 d
+:matt/oriental/bridge_angle: 98 314
+:matt/oriental/bridge_angle: 98 308
+:matt/oriental/bridge_angle: 98 302
+:matt/oriental/bridge_angle: 98 296
+:matt/oriental/bridge_angle: 98 290
+:matt/oriental/bridge_angle: 98 284
+:matt/oriental/bridge_angle: 98 372 d
+:matt/oriental/bridge_angle: 98 366 d
+:matt/oriental/bridge_angle: 98 360 d
+:matt/oriental/bridge_angle: 98 354 d
+:matt/oriental/bridge_angle: 98 348 d
+:matt/oriental/bridge_angle: 98 342 d
+:matt/oriental/bridge_angle: 194 258
+:matt/oriental/bridge_angle: 194 252
+:matt/oriental/bridge_angle: 194 246
+:matt/oriental/bridge_angle: 194 240
+:matt/oriental/bridge_angle: 194 234
+:matt/oriental/bridge_angle: 194 228
+:matt/oriental/bridge_angle: 194 316 d
+:matt/oriental/bridge_angle: 194 310 d
+:matt/oriental/bridge_angle: 194 304 d
+:matt/oriental/bridge_angle: 194 298 d
+:matt/oriental/bridge_angle: 194 292 d
+:matt/oriental/bridge_angle: 194 286 d
+:matt/oriental/bridge_angle: 290 202
+:matt/oriental/bridge_angle: 290 196
+:matt/oriental/bridge_angle: 290 190
+:matt/oriental/bridge_angle: 290 184
+:matt/oriental/bridge_angle: 290 178
+:matt/oriental/bridge_angle: 290 172
+:matt/oriental/bridge_angle: 290 260 d
+:matt/oriental/bridge_angle: 290 254 d
+:matt/oriental/bridge_angle: 290 248 d
+:matt/oriental/bridge_angle: 290 242 d
+:matt/oriental/bridge_angle: 290 236 d
+:matt/oriental/bridge_angle: 290 230 d
+:matt/oriental/bridge_angle: 386 146
+:matt/oriental/bridge_angle: 386 140
+:matt/oriental/bridge_angle: 386 134
+:matt/oriental/bridge_angle: 386 128
+:matt/oriental/bridge_angle: 386 122
+:matt/oriental/bridge_angle: 386 116
+:matt/oriental/bridge_angle: 386 204 d
+:matt/oriental/bridge_angle: 386 198 d
+:matt/oriental/bridge_angle: 386 192 d
+:matt/oriental/bridge_angle: 386 186 d
+:matt/oriental/bridge_angle: 386 180 d
+:matt/oriental/bridge_angle: 386 174 d
+:matt/oriental/bridge_angle: 482 90
+:matt/oriental/bridge_angle: 482 84
+:matt/oriental/bridge_angle: 482 78
+:matt/oriental/bridge_angle: 482 72
+:matt/oriental/bridge_angle: 482 66
+:matt/oriental/bridge_angle: 482 60
+:matt/oriental/bridge_angle: 482 148 d
+:matt/oriental/bridge_angle: 482 142 d
+:matt/oriental/bridge_angle: 482 136 d
+:matt/oriental/bridge_angle: 482 130 d
+:matt/oriental/bridge_angle: 482 124 d
+:matt/oriental/bridge_angle: 482 118 d
+:matt/oriental/bridge_angle: 578 34
+:matt/oriental/bridge_angle: 578 28
+:matt/oriental/bridge_angle: 578 22
+:matt/oriental/bridge_angle: 578 16
+:matt/oriental/bridge_angle: 578 10
+:matt/oriental/bridge_angle: 578 4
+:matt/oriental/bridge_angle: 578 92 d
+:matt/oriental/bridge_angle: 578 86 d
+:matt/oriental/bridge_angle: 578 80 d
+:matt/oriental/bridge_angle: 578 74 d
+:matt/oriental/bridge_angle: 578 68 d
+:matt/oriental/bridge_angle: 578 62 d
+:matt/oriental/bridge_angle: 674 -22
+:matt/oriental/bridge_angle: 674 -28
+:matt/oriental/bridge_angle: 674 -34
+:matt/oriental/bridge_angle: 674 -40
+:matt/oriental/bridge_angle: 674 -46
+:matt/oriental/bridge_angle: 674 -52
+:matt/oriental/bridge_angle: 674 36 d
+:matt/oriental/bridge_angle: 674 30 d
+:matt/oriental/bridge_angle: 674 24 d
+:matt/oriental/bridge_angle: 674 18 d
+:matt/oriental/bridge_angle: 674 12 d
+:matt/oriental/bridge_angle: 674 6 d
+:matt/oriental/bridge_angle: 770 -78
+:matt/oriental/bridge_angle: 770 -84
+:matt/oriental/bridge_angle: 770 -90
+:matt/oriental/bridge_angle: 770 -96
+:matt/oriental/bridge_angle: 770 -102
+:matt/oriental/bridge_angle: 770 -108
+:matt/oriental/bridge_angle: 770 -20 d
+:matt/oriental/bridge_angle: 770 -26 d
+:matt/oriental/bridge_angle: 770 -32 d
+:matt/oriental/bridge_angle: 770 -38 d
+:matt/oriental/bridge_angle: 770 -44 d
+:matt/oriental/bridge_angle: 770 -50 d
+:matt/oriental/bridge_angle: 402 314
+:matt/oriental/bridge_angle: 402 308
+:matt/oriental/bridge_angle: 402 302
+:matt/oriental/bridge_angle: 402 296
+:matt/oriental/bridge_angle: 402 290
+:matt/oriental/bridge_angle: 402 284
+:matt/oriental/bridge_angle: 498 258
+:matt/oriental/bridge_angle: 498 252
+:matt/oriental/bridge_angle: 498 246
+:matt/oriental/bridge_angle: 498 240
+:matt/oriental/bridge_angle: 498 234
+:matt/oriental/bridge_angle: 498 228
+:matt/oriental/bridge_angle: 594 202
+:matt/oriental/bridge_angle: 594 196
+:matt/oriental/bridge_angle: 594 190
+:matt/oriental/bridge_angle: 594 184
+:matt/oriental/bridge_angle: 594 178
+:matt/oriental/bridge_angle: 594 172
+:matt/oriental/bridge_angle: 690 146
+:matt/oriental/bridge_angle: 690 140
+:matt/oriental/bridge_angle: 690 134
+:matt/oriental/bridge_angle: 690 128
+:matt/oriental/bridge_angle: 690 122
+:matt/oriental/bridge_angle: 690 116
+:matt/oriental/bridge_angle: 786 90
+:matt/oriental/bridge_angle: 786 84
+:matt/oriental/bridge_angle: 786 78
+:matt/oriental/bridge_angle: 786 72
+:matt/oriental/bridge_angle: 786 66
+:matt/oriental/bridge_angle: 786 60
+:matt/oriental/bridge_angle: 882 34
+:matt/oriental/bridge_angle: 882 28
+:matt/oriental/bridge_angle: 882 22
+:matt/oriental/bridge_angle: 882 16
+:matt/oriental/bridge_angle: 882 10
+:matt/oriental/bridge_angle: 882 4
+:matt/oriental/bridge_angle: 978 -22
+:matt/oriental/bridge_angle: 978 -28
+:matt/oriental/bridge_angle: 978 -34
+:matt/oriental/bridge_angle: 978 -40
+:matt/oriental/bridge_angle: 978 -46
+:matt/oriental/bridge_angle: 978 -52
+:matt/oriental/bridge_angle: 978 36 d
+:matt/oriental/bridge_angle: 978 30 d
+:matt/oriental/bridge_angle: 978 24 d
+:matt/oriental/bridge_angle: 978 18 d
+:matt/oriental/bridge_angle: 978 12 d
+:matt/oriental/bridge_angle: 978 6 d
+:matt/oriental/bridge_angle: 882 92 d
+:matt/oriental/bridge_angle: 882 86 d
+:matt/oriental/bridge_angle: 882 80 d
+:matt/oriental/bridge_angle: 882 74 d
+:matt/oriental/bridge_angle: 882 68 d
+:matt/oriental/bridge_angle: 882 62 d
+:matt/oriental/bridge_angle: 786 148 d
+:matt/oriental/bridge_angle: 786 142 d
+:matt/oriental/bridge_angle: 786 136 d
+:matt/oriental/bridge_angle: 786 130 d
+:matt/oriental/bridge_angle: 786 124 d
+:matt/oriental/bridge_angle: 786 118 d
+:matt/oriental/bridge_angle: 690 204 d
+:matt/oriental/bridge_angle: 690 198 d
+:matt/oriental/bridge_angle: 690 192 d
+:matt/oriental/bridge_angle: 690 186 d
+:matt/oriental/bridge_angle: 690 180 d
+:matt/oriental/bridge_angle: 690 174 d
+:matt/oriental/bridge_angle: 594 260 d
+:matt/oriental/bridge_angle: 594 254 d
+:matt/oriental/bridge_angle: 594 248 d
+:matt/oriental/bridge_angle: 594 242 d
+:matt/oriental/bridge_angle: 594 236 d
+:matt/oriental/bridge_angle: 594 230 d
+:matt/oriental/bridge_angle: 498 316 d
+:matt/oriental/bridge_angle: 498 310 d
+:matt/oriental/bridge_angle: 498 304 d
+:matt/oriental/bridge_angle: 498 298 d
+:matt/oriental/bridge_angle: 498 292 d
+:matt/oriental/bridge_angle: 498 286 d
+:matt/oriental/bridge_angle: 402 372 d
+:matt/oriental/bridge_angle: 402 366 d
+:matt/oriental/bridge_angle: 402 360 d
+:matt/oriental/bridge_angle: 402 354 d
+:matt/oriental/bridge_angle: 402 348 d
+:matt/oriental/bridge_angle: 402 342 d
+:matt/oriental/bridge_angle: 1074 -78
+:matt/oriental/bridge_angle: 1074 -84
+:matt/oriental/bridge_angle: 1074 -90
+:matt/oriental/bridge_angle: 1074 -96
+:matt/oriental/bridge_angle: 1074 -102
+:matt/oriental/bridge_angle: 1074 -108
+:matt/oriental/bridge_angle: 1074 -20 d
+:matt/oriental/bridge_angle: 1074 -26 d
+:matt/oriental/bridge_angle: 1074 -32 d
+:matt/oriental/bridge_angle: 1074 -38 d
+:matt/oriental/bridge_angle: 1074 -44 d
+:matt/oriental/bridge_angle: 1074 -50 d
+:matt/oriental/bridge_angle: 306 370
+:matt/oriental/bridge_angle: 306 364
+:matt/oriental/bridge_angle: 306 358
+:matt/oriental/bridge_angle: 306 352
+:matt/oriental/bridge_angle: 306 346
+:matt/oriental/bridge_angle: 306 340
+:matt/oriental/bridge_angle: 306 398 d
+:matt/oriental/bridge_angle: 546 314
+:matt/oriental/bridge_angle: 546 308
+:matt/oriental/bridge_angle: 546 302
+:matt/oriental/bridge_angle: 546 296
+:matt/oriental/bridge_angle: 546 290
+:matt/oriental/bridge_angle: 546 284
+:matt/oriental/bridge_angle: 642 258
+:matt/oriental/bridge_angle: 642 252
+:matt/oriental/bridge_angle: 642 246
+:matt/oriental/bridge_angle: 642 240
+:matt/oriental/bridge_angle: 642 234
+:matt/oriental/bridge_angle: 642 228
+:matt/oriental/bridge_angle: 738 202
+:matt/oriental/bridge_angle: 738 196
+:matt/oriental/bridge_angle: 738 190
+:matt/oriental/bridge_angle: 738 184
+:matt/oriental/bridge_angle: 738 178
+:matt/oriental/bridge_angle: 738 172
+:matt/oriental/bridge_angle: 738 260 d
+:matt/oriental/bridge_angle: 738 254 d
+:matt/oriental/bridge_angle: 738 248 d
+:matt/oriental/bridge_angle: 738 242 d
+:matt/oriental/bridge_angle: 738 236 d
+:matt/oriental/bridge_angle: 738 230 d
+:matt/oriental/bridge_angle: 642 316 d
+:matt/oriental/bridge_angle: 642 310 d
+:matt/oriental/bridge_angle: 642 304 d
+:matt/oriental/bridge_angle: 642 298 d
+:matt/oriental/bridge_angle: 642 292 d
+:matt/oriental/bridge_angle: 642 286 d
+:matt/oriental/bridge_angle: 546 372 d
+:matt/oriental/bridge_angle: 546 366 d
+:matt/oriental/bridge_angle: 546 360 d
+:matt/oriental/bridge_angle: 546 354 d
+:matt/oriental/bridge_angle: 546 348 d
+:matt/oriental/bridge_angle: 546 342 d
+:matt/oriental/bridge_angle: 450 370
+:matt/oriental/bridge_angle: 450 364
+:matt/oriental/bridge_angle: 450 358
+:matt/oriental/bridge_angle: 450 352
+:matt/oriental/bridge_angle: 450 346
+:matt/oriental/bridge_angle: 450 340
+:matt/oriental/bridge_angle: 450 398 d
+:matt/oriental/bridge_angle: 834 146
+:matt/oriental/bridge_angle: 834 140
+:matt/oriental/bridge_angle: 834 134
+:matt/oriental/bridge_angle: 834 128
+:matt/oriental/bridge_angle: 834 122
+:matt/oriental/bridge_angle: 834 116
+:matt/oriental/bridge_angle: 930 90
+:matt/oriental/bridge_angle: 930 84
+:matt/oriental/bridge_angle: 930 78
+:matt/oriental/bridge_angle: 930 72
+:matt/oriental/bridge_angle: 930 66
+:matt/oriental/bridge_angle: 930 60
+:matt/oriental/bridge_angle: 1026 34
+:matt/oriental/bridge_angle: 1026 28
+:matt/oriental/bridge_angle: 1026 22
+:matt/oriental/bridge_angle: 1026 16
+:matt/oriental/bridge_angle: 1026 10
+:matt/oriental/bridge_angle: 1026 4
+:matt/oriental/bridge_angle: 1026 92 d
+:matt/oriental/bridge_angle: 1026 86 d
+:matt/oriental/bridge_angle: 1026 80 d
+:matt/oriental/bridge_angle: 1026 74 d
+:matt/oriental/bridge_angle: 1026 68 d
+:matt/oriental/bridge_angle: 1026 62 d
+:matt/oriental/bridge_angle: 930 148 d
+:matt/oriental/bridge_angle: 930 142 d
+:matt/oriental/bridge_angle: 930 136 d
+:matt/oriental/bridge_angle: 930 130 d
+:matt/oriental/bridge_angle: 930 124 d
+:matt/oriental/bridge_angle: 930 118 d
+:matt/oriental/bridge_angle: 834 204 d
+:matt/oriental/bridge_angle: 834 198 d
+:matt/oriental/bridge_angle: 834 192 d
+:matt/oriental/bridge_angle: 834 186 d
+:matt/oriental/bridge_angle: 834 180 d
+:matt/oriental/bridge_angle: 834 174 d
+:matt/oriental/bridge_angle: 1122 -22
+:matt/oriental/bridge_angle: 1122 -28
+:matt/oriental/bridge_angle: 1122 -34
+:matt/oriental/bridge_angle: 1122 -40
+:matt/oriental/bridge_angle: 1122 -46
+:matt/oriental/bridge_angle: 1122 -52
+:matt/oriental/bridge_angle: 1122 36 d
+:matt/oriental/bridge_angle: 1122 30 d
+:matt/oriental/bridge_angle: 1122 24 d
+:matt/oriental/bridge_angle: 1122 18 d
+:matt/oriental/bridge_angle: 1122 12 d
+:matt/oriental/bridge_angle: 1122 6 d
+:matt/oriental/bridge_angle: 1218 -78
+:matt/oriental/bridge_angle: 1218 -84
+:matt/oriental/bridge_angle: 1218 -90
+:matt/oriental/bridge_angle: 1218 -96
+:matt/oriental/bridge_angle: 1218 -102
+:matt/oriental/bridge_angle: 1218 -108
+:matt/oriental/bridge_angle: 1218 -20 d
+:matt/oriental/bridge_angle: 1218 -26 d
+:matt/oriental/bridge_angle: 1218 -32 d
+:matt/oriental/bridge_angle: 1218 -38 d
+:matt/oriental/bridge_angle: 1218 -44 d
+:matt/oriental/bridge_angle: 1218 -50 d
+:matt/oriental/bridge_angle: 690 314
+:matt/oriental/bridge_angle: 690 308
+:matt/oriental/bridge_angle: 690 302
+:matt/oriental/bridge_angle: 690 296
+:matt/oriental/bridge_angle: 690 290
+:matt/oriental/bridge_angle: 690 284
+:matt/oriental/bridge_angle: 786 258
+:matt/oriental/bridge_angle: 786 252
+:matt/oriental/bridge_angle: 786 246
+:matt/oriental/bridge_angle: 786 240
+:matt/oriental/bridge_angle: 786 234
+:matt/oriental/bridge_angle: 786 228
+:matt/oriental/bridge_angle: 882 202
+:matt/oriental/bridge_angle: 882 196
+:matt/oriental/bridge_angle: 882 190
+:matt/oriental/bridge_angle: 882 184
+:matt/oriental/bridge_angle: 882 178
+:matt/oriental/bridge_angle: 882 172
+:matt/oriental/bridge_angle: 882 260 d
+:matt/oriental/bridge_angle: 882 254 d
+:matt/oriental/bridge_angle: 882 248 d
+:matt/oriental/bridge_angle: 882 242 d
+:matt/oriental/bridge_angle: 882 236 d
+:matt/oriental/bridge_angle: 882 230 d
+:matt/oriental/bridge_angle: 786 316 d
+:matt/oriental/bridge_angle: 786 310 d
+:matt/oriental/bridge_angle: 786 304 d
+:matt/oriental/bridge_angle: 786 298 d
+:matt/oriental/bridge_angle: 786 292 d
+:matt/oriental/bridge_angle: 786 286 d
+:matt/oriental/bridge_angle: 690 372 d
+:matt/oriental/bridge_angle: 690 366 d
+:matt/oriental/bridge_angle: 690 360 d
+:matt/oriental/bridge_angle: 690 354 d
+:matt/oriental/bridge_angle: 690 348 d
+:matt/oriental/bridge_angle: 690 342 d
+:matt/oriental/bridge_angle: 594 370
+:matt/oriental/bridge_angle: 594 364
+:matt/oriental/bridge_angle: 594 358
+:matt/oriental/bridge_angle: 594 352
+:matt/oriental/bridge_angle: 594 346
+:matt/oriental/bridge_angle: 594 340
+:matt/oriental/bridge_angle: 594 398 d
+:matt/oriental/bridge_angle: 978 146
+:matt/oriental/bridge_angle: 978 140
+:matt/oriental/bridge_angle: 978 134
+:matt/oriental/bridge_angle: 978 128
+:matt/oriental/bridge_angle: 978 122
+:matt/oriental/bridge_angle: 978 116
+:matt/oriental/bridge_angle: 1074 90
+:matt/oriental/bridge_angle: 1074 84
+:matt/oriental/bridge_angle: 1074 78
+:matt/oriental/bridge_angle: 1074 72
+:matt/oriental/bridge_angle: 1074 66
+:matt/oriental/bridge_angle: 1074 60
+:matt/oriental/bridge_angle: 1170 34
+:matt/oriental/bridge_angle: 1170 28
+:matt/oriental/bridge_angle: 1170 22
+:matt/oriental/bridge_angle: 1170 16
+:matt/oriental/bridge_angle: 1170 10
+:matt/oriental/bridge_angle: 1170 4
+:matt/oriental/bridge_angle: 1170 92 d
+:matt/oriental/bridge_angle: 1170 86 d
+:matt/oriental/bridge_angle: 1170 80 d
+:matt/oriental/bridge_angle: 1170 74 d
+:matt/oriental/bridge_angle: 1170 68 d
+:matt/oriental/bridge_angle: 1170 62 d
+:matt/oriental/bridge_angle: 1074 148 d
+:matt/oriental/bridge_angle: 1074 142 d
+:matt/oriental/bridge_angle: 1074 136 d
+:matt/oriental/bridge_angle: 1074 130 d
+:matt/oriental/bridge_angle: 1074 124 d
+:matt/oriental/bridge_angle: 1074 118 d
+:matt/oriental/bridge_angle: 978 204 d
+:matt/oriental/bridge_angle: 978 198 d
+:matt/oriental/bridge_angle: 978 192 d
+:matt/oriental/bridge_angle: 978 186 d
+:matt/oriental/bridge_angle: 978 180 d
+:matt/oriental/bridge_angle: 978 174 d
+:matt/oriental/bridge_angle: 1266 -22
+:matt/oriental/bridge_angle: 1266 -28
+:matt/oriental/bridge_angle: 1266 -34
+:matt/oriental/bridge_angle: 1266 -40
+:matt/oriental/bridge_angle: 1266 -46
+:matt/oriental/bridge_angle: 1266 -52
+:matt/oriental/bridge_angle: 1266 36 d
+:matt/oriental/bridge_angle: 1266 30 d
+:matt/oriental/bridge_angle: 1266 24 d
+:matt/oriental/bridge_angle: 1266 18 d
+:matt/oriental/bridge_angle: 1266 12 d
+:matt/oriental/bridge_angle: 1266 6 d
+:matt/oriental/bridge_angle: 1362 -78
+:matt/oriental/bridge_angle: 1362 -84
+:matt/oriental/bridge_angle: 1362 -90
+:matt/oriental/bridge_angle: 1362 -96
+:matt/oriental/bridge_angle: 1362 -102
+:matt/oriental/bridge_angle: 1362 -108
+:matt/oriental/bridge_angle: 1362 -20 d
+:matt/oriental/bridge_angle: 1362 -26 d
+:matt/oriental/bridge_angle: 1362 -32 d
+:matt/oriental/bridge_angle: 1362 -38 d
+:matt/oriental/bridge_angle: 1362 -44 d
+:matt/oriental/bridge_angle: 1362 -50 d
+:matt/oriental/bridge_angle: 834 314
+:matt/oriental/bridge_angle: 834 308
+:matt/oriental/bridge_angle: 834 302
+:matt/oriental/bridge_angle: 834 296
+:matt/oriental/bridge_angle: 834 290
+:matt/oriental/bridge_angle: 834 284
+:matt/oriental/bridge_angle: 930 258
+:matt/oriental/bridge_angle: 930 252
+:matt/oriental/bridge_angle: 930 246
+:matt/oriental/bridge_angle: 930 240
+:matt/oriental/bridge_angle: 930 234
+:matt/oriental/bridge_angle: 930 228
+:matt/oriental/bridge_angle: 1026 202
+:matt/oriental/bridge_angle: 1026 196
+:matt/oriental/bridge_angle: 1026 190
+:matt/oriental/bridge_angle: 1026 184
+:matt/oriental/bridge_angle: 1026 178
+:matt/oriental/bridge_angle: 1026 172
+:matt/oriental/bridge_angle: 1026 260 d
+:matt/oriental/bridge_angle: 1026 254 d
+:matt/oriental/bridge_angle: 1026 248 d
+:matt/oriental/bridge_angle: 1026 242 d
+:matt/oriental/bridge_angle: 1026 236 d
+:matt/oriental/bridge_angle: 1026 230 d
+:matt/oriental/bridge_angle: 930 316 d
+:matt/oriental/bridge_angle: 930 310 d
+:matt/oriental/bridge_angle: 930 304 d
+:matt/oriental/bridge_angle: 930 298 d
+:matt/oriental/bridge_angle: 930 292 d
+:matt/oriental/bridge_angle: 930 286 d
+:matt/oriental/bridge_angle: 834 372 d
+:matt/oriental/bridge_angle: 834 366 d
+:matt/oriental/bridge_angle: 834 360 d
+:matt/oriental/bridge_angle: 834 354 d
+:matt/oriental/bridge_angle: 834 348 d
+:matt/oriental/bridge_angle: 834 342 d
+:matt/oriental/bridge_angle: 738 370
+:matt/oriental/bridge_angle: 738 364
+:matt/oriental/bridge_angle: 738 358
+:matt/oriental/bridge_angle: 738 352
+:matt/oriental/bridge_angle: 738 346
+:matt/oriental/bridge_angle: 738 340
+:matt/oriental/bridge_angle: 738 398 d
+:matt/oriental/bridge_angle: 1122 146
+:matt/oriental/bridge_angle: 1122 140
+:matt/oriental/bridge_angle: 1122 134
+:matt/oriental/bridge_angle: 1122 128
+:matt/oriental/bridge_angle: 1122 122
+:matt/oriental/bridge_angle: 1122 116
+:matt/oriental/bridge_angle: 1218 90
+:matt/oriental/bridge_angle: 1218 84
+:matt/oriental/bridge_angle: 1218 78
+:matt/oriental/bridge_angle: 1218 72
+:matt/oriental/bridge_angle: 1218 66
+:matt/oriental/bridge_angle: 1218 60
+:matt/oriental/bridge_angle: 1314 34
+:matt/oriental/bridge_angle: 1314 28
+:matt/oriental/bridge_angle: 1314 22
+:matt/oriental/bridge_angle: 1314 16
+:matt/oriental/bridge_angle: 1314 10
+:matt/oriental/bridge_angle: 1314 4
+:matt/oriental/bridge_angle: 1314 92 d
+:matt/oriental/bridge_angle: 1314 86 d
+:matt/oriental/bridge_angle: 1314 80 d
+:matt/oriental/bridge_angle: 1314 74 d
+:matt/oriental/bridge_angle: 1314 68 d
+:matt/oriental/bridge_angle: 1314 62 d
+:matt/oriental/bridge_angle: 1218 148 d
+:matt/oriental/bridge_angle: 1218 142 d
+:matt/oriental/bridge_angle: 1218 136 d
+:matt/oriental/bridge_angle: 1218 130 d
+:matt/oriental/bridge_angle: 1218 124 d
+:matt/oriental/bridge_angle: 1218 118 d
+:matt/oriental/bridge_angle: 1122 204 d
+:matt/oriental/bridge_angle: 1122 198 d
+:matt/oriental/bridge_angle: 1122 192 d
+:matt/oriental/bridge_angle: 1122 186 d
+:matt/oriental/bridge_angle: 1122 180 d
+:matt/oriental/bridge_angle: 1122 174 d
+:matt/oriental/bridge_angle: 1410 -22
+:matt/oriental/bridge_angle: 1410 -28
+:matt/oriental/bridge_angle: 1410 -34
+:matt/oriental/bridge_angle: 1410 -40
+:matt/oriental/bridge_angle: 1410 -46
+:matt/oriental/bridge_angle: 1410 -52
+:matt/oriental/bridge_angle: 1410 36 d
+:matt/oriental/bridge_angle: 1410 30 d
+:matt/oriental/bridge_angle: 1410 24 d
+:matt/oriental/bridge_angle: 1410 18 d
+:matt/oriental/bridge_angle: 1410 12 d
+:matt/oriental/bridge_angle: 1410 6 d
+:matt/oriental/bridge_angle: 1506 -78
+:matt/oriental/bridge_angle: 1506 -84
+:matt/oriental/bridge_angle: 1506 -90
+:matt/oriental/bridge_angle: 1506 -96
+:matt/oriental/bridge_angle: 1506 -102
+:matt/oriental/bridge_angle: 1506 -108
+:matt/oriental/bridge_angle: 1506 -20 d
+:matt/oriental/bridge_angle: 1506 -26 d
+:matt/oriental/bridge_angle: 1506 -32 d
+:matt/oriental/bridge_angle: 1506 -38 d
+:matt/oriental/bridge_angle: 1506 -44 d
+:matt/oriental/bridge_angle: 1506 -50 d
+:matt/oriental/bridge_angle: 882 370
+:matt/oriental/bridge_angle: 882 364
+:matt/oriental/bridge_angle: 882 358
+:matt/oriental/bridge_angle: 882 352
+:matt/oriental/bridge_angle: 882 346
+:matt/oriental/bridge_angle: 882 340
+:matt/oriental/bridge_angle: 978 314
+:matt/oriental/bridge_angle: 978 308
+:matt/oriental/bridge_angle: 978 302
+:matt/oriental/bridge_angle: 978 296
+:matt/oriental/bridge_angle: 978 290
+:matt/oriental/bridge_angle: 978 284
+:matt/oriental/bridge_angle: 1290 314 frr
+:matt/oriental/bridge_angle: 1290 308 frr
+:matt/oriental/bridge_angle: 1290 302 frr
+:matt/oriental/bridge_angle: 1290 296 frr
+:matt/oriental/bridge_angle: 1290 290 frr
+:matt/oriental/bridge_angle: 1290 284 frr
+:matt/oriental/bridge_angle: 1290 372 frrd
+:matt/oriental/bridge_angle: 1290 366 frrd
+:matt/oriental/bridge_angle: 1290 360 frrd
+:matt/oriental/bridge_angle: 1290 354 frrd
+:matt/oriental/bridge_angle: 1290 348 frrd
+:matt/oriental/bridge_angle: 1290 342 frrd
+:matt/oriental/bridge_angle: 978 372 d
+:matt/oriental/bridge_angle: 978 366 d
+:matt/oriental/bridge_angle: 978 360 d
+:matt/oriental/bridge_angle: 978 354 d
+:matt/oriental/bridge_angle: 978 348 d
+:matt/oriental/bridge_angle: 978 342 d
+:matt/oriental/bridge_straight: 1083 308
+:matt/oriental/bridge_straight: 1083 302
+:matt/oriental/bridge_straight: 1083 296
+:matt/oriental/bridge_straight: 1083 290
+:matt/oriental/bridge_straight: 1083 284
+:matt/oriental/bridge_straight: 1188 308
+:matt/oriental/bridge_straight: 1188 302
+:matt/oriental/bridge_straight: 1188 296
+:matt/oriental/bridge_straight: 1188 290
+:matt/oriental/bridge_straight: 1188 284
+:matt/oriental/bridge_angle: 1386 370 frr
+:matt/oriental/bridge_angle: 1386 364 frr
+:matt/oriental/bridge_angle: 1386 358 frr
+:matt/oriental/bridge_angle: 1386 352 frr
+:matt/oriental/bridge_angle: 1386 346 frr
+:matt/oriental/bridge_angle: 1386 340 frr
+:matt/oriental/bridge_angle: 1387 398 frrd
+:matt/marble/09: 1082 343 d
+:matt/marble/09: 1146 343 d
+:matt/marble/09: 1210 343 d
+:matt/marble/09: 1230 343 d
+:matt/oriental/leaves6: 878 384 n
+:matt/oriental/leaves6: 592 384 n
+:matt/oriental/leaves6: 568 384 n
+:matt/oriental/leaves6: 544 384 n
+:matt/oriental/leaves6: 714 390 n
+:matt/oriental/leaves6: 858 388 n
+:matt/oriental/leaves6: 822 386 n
+:matt/oriental/leaves6: 336 368 n
+:matt/oriental/leaves6: 312 368 n
+:matt/oriental/leaves6: 288 368 n
+:matt/oriental/leaves6: 264 368 n
+:matt/oriental/leaves6: 240 368 n
+:matt/oriental/leaves6: 216 368 n
+:matt/oriental/leaves6: 192 368 n
+:matt/oriental/leaves6: 168 368 n
+:matt/oriental/leaves6: 144 368 n
+:matt/oriental/leaves6: 116 368 n
+:matt/oriental/leaves6: 304 384 n
+:matt/oriental/leaves6: 280 384 n
+:matt/oriental/leaves6: 256 384 n
+:matt/oriental/leaves6: 232 384 n
+:matt/oriental/leaves6: 208 384 n
+:matt/oriental/leaves6: 184 384 n
+:matt/oriental/leaves6: 160 384 n
+:matt/oriental/leaves6: 136 384 n
+:matt/oriental/leaves6: 112 384 n
+:matt/oriental/leaves6: 88 384 n
+:matt/oriental/leaves6: 698 388 n
+:matt/oriental/leaves6: 682 388 n
+:matt/oriental/leaves6: 442 392 n
+:matt/oriental/leaves6: 400 392 n
+:matt/oriental/leaves6: 430 394 n
+:matt/oriental/leaves6: 892 380 n
+:matt/oriental/leaves6: 452 390 n
+:matt/oriental/leaves6: 722 392 n
+:matt/oriental/leaves6: 904 378 n
+:matt/oriental/leaves6: 694 386 n
+:matt/oriental/leaves6: 728 10 n
+:matt/oriental/leaves6: 752 10 n
+:matt/oriental/leaves6: 776 10 n
+:matt/oriental/leaves6: 800 10 n
+:matt/oriental/leaves6: 744 2 n
+:matt/oriental/leaves6: 768 2 n
+:matt/oriental/leaves6: 792 2 n
+:matt/oriental/leaves6: 816 2 n
+:matt/oriental/leaves6: 760 -6 n
+:matt/oriental/leaves6: 784 -6 n
+:matt/oriental/leaves6: 808 -6 n
+:matt/oriental/leaves6: 832 -6 n
+:matt/oriental/leaves6: 824 10 n
+:matt/oriental/leaves6: 848 10 n
+:matt/oriental/leaves6: 872 10 n
+:matt/oriental/leaves6: 896 10 n
+:matt/oriental/leaves6: 840 2 n
+:matt/oriental/leaves6: 864 2 n
+:matt/oriental/leaves6: 888 2 n
+:matt/oriental/leaves6: 912 2 n
+:matt/oriental/leaves6: 856 -6 n
+:matt/oriental/leaves6: 880 -6 n
+:matt/oriental/leaves6: 904 -6 n
+:matt/oriental/leaves6: 928 -6 n
+:matt/oriental/leaves6: 920 10 n
+:matt/oriental/leaves6: 936 2 n
+:matt/oriental/leaves6: 952 -6 n
+:matt/oriental/leaves6: 1040 6 n
+:matt/oriental/leaves6: 1048 2 n
+:matt/oriental/leaves6: 1064 -6 n
+:matt/oriental/leaves6: 1072 6 n
+:matt/oriental/leaves6: 1088 -2 n
+:matt/oriental/leaves6: 1096 -6 n
+:matt/oriental/leaves6: 1184 2 n
+:matt/oriental/leaves6: 1192 2 n
+:matt/oriental/leaves6: 1208 -6 n
+:matt/oriental/leaves6: 1224 2 n
+:matt/oriental/leaves6: 1232 2 n
+:matt/oriental/leaves6: 1248 -6 n
+:matt/oriental/leaves6: 1320 6 n
+:matt/oriental/leaves6: 1336 2 n
+:matt/oriental/leaves6: 1352 -6 n
+:matt/oriental/leaves6: 1352 6 n
+:matt/oriental/leaves6: 1368 2 n
+:matt/oriental/leaves6: 1384 -6 n
+:matt/oriental/leaves6: 200 10 n
+:matt/oriental/leaves6: 232 -6 n
+:matt/oriental/leaves6: 216 2 n
+:matt/oriental/leaves6: 232 10 n
+:matt/oriental/leaves6: 264 -6 n
+:matt/oriental/leaves6: 248 2 n
+:matt/oriental/leaves6: 264 10 n
+:matt/oriental/leaves6: 296 -6 n
+:matt/oriental/leaves6: 280 2 n
+:matt/oriental/leaves6: 296 10 n
+:matt/oriental/leaves6: 328 -6 n
+:matt/oriental/leaves6: 312 2 n
+:matt/oriental/leaves6: 328 10 n
+:matt/oriental/leaves6: 360 -6 n
+:matt/oriental/leaves6: 344 2 n
+:matt/oriental/leaves6: 360 10 n
+:matt/oriental/leaves6: 392 -6 n
+:matt/oriental/leaves6: 376 2 n
+:matt/oriental/leaves6: 392 10 n
+:matt/oriental/leaves6: 424 -6 n
+:matt/oriental/leaves6: 408 2 n
+:matt/oriental/leaves6: 424 10 n
+:matt/oriental/leaves6: 456 -6 n
+:matt/oriental/leaves6: 440 2 n
+:matt/oriental/leaves6: 456 10 n
+:matt/oriental/leaves6: 488 -6 n
+:matt/oriental/leaves6: 472 2 n
+:matt/oriental/leaves6: 488 10 n
+:matt/oriental/leaves6: 520 -6 n
+:matt/oriental/leaves6: 504 2 n
+:matt/oriental/leaves6: 520 10 n
+:matt/oriental/leaves6: 552 -6 n
+:matt/oriental/leaves6: 536 2 n
+:matt/oriental/leaves6: 552 10 n
+:matt/oriental/leaves6: 584 -6 n
+:matt/oriental/leaves6: 568 2 n
+:matt/oriental/leaves6: 584 10 n
+:matt/oriental/leaves6: 616 -6 n
+:matt/oriental/leaves6: 600 2 n
+:matt/oriental/leaves6: 616 10 n
+:matt/oriental/leaves6: 648 -6 n
+:matt/oriental/leaves6: 632 2 n
+:matt/oriental/leaves6: 168 10 n
+:matt/oriental/leaves6: 164 4 n
+:matt/oriental/leaves6: 168 -6 n
+:matt/oriental/leaves6: 192 -6 n
+:matt/oriental/leaves6: 176 10 n
+:matt/oriental/bonsaitree: 112 -80 fn

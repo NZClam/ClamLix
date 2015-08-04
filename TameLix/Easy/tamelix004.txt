@@ -1,0 +1,131 @@
+$BUILT 2015-08-04 19:33:41
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Uptown Lix
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X -26
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 10
+#JUMPER 10
+#CLIMBER 10
+#FLOATER 10
+#EXPLODER2 10
+#BATTER 10
+#BLOCKER 10
+#BUILDER 10
+#PLATFORMER 10
+#BASHER 10
+#MINER 10
+#DIGGER 10
+
+:matt/marble/Hatch.H: 272 32
+
+:proxima/tile/goal.G: 240 304
+
+:proxima/tile/spheres/bluesmall: 248 120
+:proxima/tile/spheres/bluesmall: 272 120
+:proxima/tile/spheres/bluesmall: 296 120
+:proxima/tile/spheres/bluesmall: 320 120
+:proxima/tile/spheres/bluesmall: 344 120
+:proxima/tile/spheres/bluesmall: 368 120
+:proxima/tile/spheres/bluesmall: -24 176
+:proxima/tile/spheres/bluesmall: 0 176
+:proxima/tile/spheres/bluesmall: 204 244
+:proxima/tile/spheres/bluesmall: 228 244
+:proxima/tile/spheres/bluesmall: 212 268
+:proxima/tile/spheres/bluesmall: 252 244
+:proxima/tile/spheres/bluesmall: 276 244
+:proxima/tile/spheres/bluesmall: 300 244
+:proxima/tile/spheres/bluesmall: 324 244
+:proxima/tile/spheres/bluesmall: 348 244
+:proxima/tile/spheres/bluesmall: 372 244
+:proxima/tile/spheres/bluesmall: 388 268
+:proxima/tile/spheres/bluesmall: 392 120
+:proxima/tile/spheres/bluesmall: 416 120
+:proxima/tile/spheres/bluesmall: 400 144
+:proxima/tile/spheres/bluesmall: 424 144
+:proxima/tile/spheres/bluesmall: 448 144
+:proxima/tile/spheres/bluesmall: 472 144
+:proxima/tile/spheres/bluesmall: 496 144
+:proxima/tile/spheres/bluesmall: 528 120
+:proxima/tile/spheres/bluesmall: 520 144
+:proxima/tile/spheres/bluesmall: 552 120
+:proxima/tile/spheres/bluesmall: 544 144
+:proxima/tile/spheres/bluesmall: 576 120
+:proxima/tile/spheres/bluesmall: 600 120
+:proxima/tile/spheres/bluesmall: 592 144
+:proxima/tile/spheres/bluesmall: 592 168
+:proxima/tile/spheres/bluesmall: 592 192
+:proxima/tile/spheres/goldsmall: 592 216
+:proxima/tile/spheres/gold: 576 240
+:proxima/tile/spheres/bluesmall: 504 168
+:proxima/tile/spheres/goldsmall: 504 192
+:proxima/tile/spheres/gold: 488 216
+:proxima/tile/spheres/bluesmall: 16 200
+:proxima/tile/spheres/bluesmall: 40 200
+:proxima/tile/spheres/goldsmall: 16 224
+:proxima/tile/spheres/gold: 0 248
+:proxima/tile/spheres/bluesmall: 64 200
+:proxima/tile/spheres/bluesmall: 88 200
+:proxima/tile/spheres/bluesmall: 120 176
+:proxima/tile/spheres/bluesmall: 144 176
+:proxima/tile/spheres/bluesmall: 168 176
+:proxima/tile/spheres/bluesmall: 192 176
+:proxima/tile/spheres/bluesmall: 216 176
+:proxima/tile/spheres/bluesmall: 240 176
+:proxima/tile/spheres/bluesmall: 264 176
+:proxima/tile/spheres/bluesmall: 288 176
+:proxima/tile/spheres/bluesmall: 112 200
+:proxima/tile/spheres/bluesmall: 136 200
+:proxima/tile/spheres/goldsmall: 128 224
+:proxima/tile/spheres/gold: 112 248
+:proxima/tile/cyan3: 344 320
+:proxima/tile/cyan3a: 344 352
+:proxima/tile/cyan3a: 472 352
+:proxima/tile/cyan3: 472 320
+:proxima/tile/cyan3a: 72 352
+:proxima/tile/cyan2: 48 368
+:proxima/tile/cyan3: 72 320
+:proxima/tile/cyan2: 112 368
+:proxima/tile/cyan2: 176 368
+:proxima/tile/cyan2: 240 368
+:proxima/tile/cyan2: 304 368
+:proxima/tile/cyan2: 368 368
+:proxima/tile/cyan2: 432 368
+:proxima/tile/cyan2: 496 368
+:proxima/tile/cyan2: 24 368
+:proxima/tile/blue1as: 352 0
+:proxima/tile/blue2as: 384 0
+:proxima/tile/blue1as: 416 0
+:proxima/tile/blue2as: 448 0
+:proxima/tile/blue1as: 480 0
+:proxima/tile/blue2as: 576 0
+:proxima/tile/blue1as: 512 32
+:proxima/tile/blue2as: 544 32
+:proxima/tile/blue1s: 512 0
+:proxima/tile/blue1s: 544 0
+:proxima/tile/spheres/goldsmall: 24 40
+:proxima/tile/spheres/goldsmall: 48 56
+:proxima/tile/spheres/goldsmall: 96 -8
+:proxima/tile/spheres/goldsmall: 96 16
+:proxima/tile/spheres/goldsmall: 96 40
+:proxima/tile/spheres/goldsmall: 72 72
+:proxima/tile/spheres/goldsmall: 96 64
+:proxima/tile/spheres/goldsmall: 120 72
+:proxima/tile/spheres/goldsmall: 96 88
+:proxima/tile/spheres/goldsmall: 144 56
+:proxima/tile/spheres/goldsmall: 168 40

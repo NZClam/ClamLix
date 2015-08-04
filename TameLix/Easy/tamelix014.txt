@@ -1,0 +1,188 @@
+$BUILT 2015-08-04 20:24:34
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH With a little help from my Lix
+
+#SIZE_X 1574
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 130
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 10
+#JUMPER 10
+#CLIMBER 10
+#FLOATER 10
+#EXPLODER2 10
+#BATTER 10
+#BLOCKER 10
+#BUILDER 10
+#PLATFORMER 10
+#BASHER 10
+#MINER 10
+#DIGGER 10
+
+:matt/goldmine/GoalTop.D: 1344 208
+
+:matt/goldmine/Hatch.H: 288 48
+
+:matt/goldmine/Goal.G: 1344 256
+
+:matt/goldmine/06: 112 132 rrr
+:matt/goldmine/02: 134 -2
+:matt/goldmine/04: 98 -56 fr
+:matt/goldmine/03: 230 158 f
+:matt/goldmine/06: 310 180
+:matt/goldmine/10: 1080 220 frr
+:matt/goldmine/06: 970 184 f
+:matt/goldmine/10: 1034 202 rrr
+:matt/goldmine/01: 1036 190
+:matt/goldmine/10: 1060 176 frr
+:matt/goldmine/01: 1050 184
+:matt/goldmine/10: 1166 152 r
+:matt/goldmine/06: 1162 150 rrr
+:matt/goldmine/plank: 1216 304
+:matt/goldmine/06: 1162 116 frrr
+:matt/goldmine/plank: 1344 304
+:matt/goldmine/planksupport: 1440 176
+:matt/goldmine/crate64: 1384 0
+:matt/goldmine/plank: 1376 48 fr
+:matt/goldmine/crate32: 1364 176
+:matt/goldmine/crate64: 1312 0
+:matt/goldmine/crate32: 1384 64
+:matt/goldmine/crate32: 1344 64
+:matt/goldmine/plankdiag2: 1280 64
+:matt/goldmine/crate32: 1312 64
+:matt/goldmine/03: 926 164
+:matt/goldmine/06: 1018 190 f
+:matt/goldmine/plankdiag: 976 136
+:matt/goldmine/03: 870 158
+:matt/goldmine/03: 728 174 frr
+:matt/goldmine/03: 786 170
+:matt/goldmine/03: 840 178
+:matt/goldmine/plankdiag: 744 248
+:matt/goldmine/plankdiag: 528 184
+:matt/goldmine/plankdiag: 368 128
+:matt/goldmine/plankdiag: 144 192
+:matt/goldmine/plankdiag: 248 272
+:matt/goldmine/04: 172 276
+:matt/goldmine/plankdiag: 360 312
+:matt/goldmine/plankdiag: 1064 280
+:matt/goldmine/plankdiag: 1078 280
+:matt/goldmine/plankdiag: 1100 272
+:matt/goldmine/plankdiag: 1114 272
+:matt/goldmine/plankdiag: 1128 272
+:matt/goldmine/plankdiag: 1142 272
+:matt/goldmine/plankdiag: 1156 272
+:matt/goldmine/crate32: 1172 272
+:matt/goldmine/06: 1166 216 rrr
+:matt/goldmine/plankdiag: 1224 272
+:matt/goldmine/plankdiag: 1238 272
+:matt/goldmine/plankdiag: 1252 272
+:matt/goldmine/plankdiag: 1266 272
+:matt/goldmine/crate32: 1280 272
+:matt/goldmine/07: 1176 310
+:matt/goldmine/03: 1256 210 frrr
+:matt/goldmine/10: 1268 160 r
+:matt/goldmine/06: 1264 144 frrr
+:matt/goldmine/06: 1264 124 frrr
+:matt/goldmine/plankdiag: 1042 288
+:matt/goldmine/03: 1218 308
+:matt/goldmine/07: 1104 290
+:matt/goldmine/crate32: 1416 64
+:matt/goldmine/06: 1448 304 rr
+:matt/goldmine/06: 1320 308
+:matt/goldmine/03: 1332 308
+:matt/goldmine/07: 1378 294
+:matt/goldmine/07: 1400 334
+:matt/goldmine/07: 1256 326
+:matt/goldmine/07: 1100 332
+:matt/goldmine/09: 948 304 f
+:matt/goldmine/06: 990 294
+:matt/goldmine/03: 1022 290
+:matt/goldmine/03: 850 352
+:matt/goldmine/03: 738 346
+:matt/goldmine/07: 842 370
+:matt/goldmine/07: 986 302
+:matt/goldmine/07: 756 364
+:matt/goldmine/03: 618 342
+:matt/goldmine/07: 642 364
+:matt/goldmine/03: 492 338
+:matt/goldmine/07: 526 358
+:matt/goldmine/07: 416 356
+:matt/goldmine/03: 370 340
+:matt/goldmine/07: 340 356
+:matt/goldmine/03: 254 336
+:matt/goldmine/03: 328 140
+:matt/goldmine/10: 372 174
+:matt/goldmine/03: 308 140
+:matt/goldmine/10: 400 160
+:matt/goldmine/10: 424 158
+:matt/goldmine/10: 444 146
+:matt/goldmine/03: 198 142
+:matt/goldmine/10: 384 176
+:matt/goldmine/03: 436 208
+:matt/goldmine/10: 660 208
+:matt/goldmine/06: 628 208 frr
+:matt/goldmine/10: 634 226
+:matt/goldmine/10: 610 240
+:matt/goldmine/03: 468 224 f
+:matt/goldmine/03: 546 206
+:matt/goldmine/10: 660 222
+:matt/goldmine/10: 684 212
+:matt/goldmine/10: 622 242
+:matt/goldmine/06: 548 246
+:matt/goldmine/03: 684 264 frr
+:matt/goldmine/06: 732 284
+:matt/goldmine/10: 798 278
+:matt/goldmine/03: 662 266 frr
+:matt/goldmine/06: 846 278
+:matt/goldmine/03: 782 262
+:matt/goldmine/07: 200 330
+:matt/goldmine/09: 102 176
+:matt/goldmine/04: 138 234 frr
+:matt/goldmine/04: 100 192 frr
+:matt/goldmine/02: 106 94
+:matt/goldmine/07: 32 320
+:matt/goldmine/08: -18 302
+:matt/goldmine/08: 64 222
+:matt/goldmine/03: 104 36
+:matt/goldmine/09: 92 16 f
+:matt/goldmine/crate64: 416 0
+:matt/goldmine/plankdiag: 544 56
+:matt/goldmine/plankdiag2: 512 56
+:matt/goldmine/crate64: 480 0
+:matt/goldmine/crate64: 544 0
+:matt/goldmine/crate64: 608 0
+:matt/goldmine/crate64: 672 0
+:matt/goldmine/crate64: 736 0
+:matt/goldmine/plankdiag2: 848 56
+:matt/goldmine/crate64: 800 0
+:matt/goldmine/plankdiag: 880 56
+:matt/goldmine/crate64: 864 0
+:matt/goldmine/crate64: 928 0
+:matt/goldmine/crate64: 992 0
+:matt/goldmine/crate64: 1056 0
+:matt/goldmine/crate64: 1120 0
+:matt/goldmine/crate64: 1184 0
+:matt/goldmine/crate64: 1248 0
+:matt/goldmine/plank: 1376 -80 fr
+:matt/goldmine/plankdiag: 672 64
+:matt/goldmine/plankdiag2: 640 64
+:matt/goldmine/plankdiag: 784 80
+:matt/goldmine/plankdiag2: 736 64
+:matt/goldmine/plankdiag2: 752 80
+:matt/goldmine/plankdiag: 800 64
+:matt/goldmine/plankdiag2: 960 64
+:matt/goldmine/plankdiag: 992 64
+:matt/goldmine/plankdiag: 686 180 d

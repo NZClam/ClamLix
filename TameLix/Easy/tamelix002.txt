@@ -1,0 +1,80 @@
+$BUILT 2015-08-05 07:07:52
+$AUTHOR Clam
+$GERMAN 
+$ENGLISH Lix for Rent
+
+#SIZE_X 640
+#SIZE_Y 400
+#TORUS_X 0
+#TORUS_Y 0
+#START_X 0
+#START_Y 0
+#BACKGROUND_RED 0
+#BACKGROUND_GREEN 0
+#BACKGROUND_BLUE 0
+
+#SECONDS 0
+#INITIAL 50
+#REQUIRED 25
+#SPAWN_INTERVAL 53
+#SPAWN_INTERVAL_FAST 4
+
+#WALKER 10
+#CLIMBER 10
+#FLOATER 10
+#EXPLODER2 10
+#BLOCKER 10
+#BUILDER 10
+#PLATFORMER 10
+#BASHER 10
+#MINER 10
+#DIGGER 10
+#JUMPER 10
+#BATTER 10
+
+:matt/goldmine/GoalTop.D: 544 144
+
+:matt/goldmine/Hatch.H: 80 272
+
+:matt/goldmine/Goal.G: 544 192
+
+:matt/goldmine/03: 22 60
+:matt/goldmine/04: 178 -84
+:matt/goldmine/07: 428 -46
+:matt/goldmine/07: 250 -72
+:matt/goldmine/07: 40 -74
+:matt/goldmine/07: -52 -24
+:matt/goldmine/crate32: 400 208 frr
+:matt/goldmine/crate32: 480 208 frr
+:matt/goldmine/crate32: 480 176 frr
+:matt/goldmine/plankdiag: 336 208
+:matt/goldmine/plankdiag: 322 208
+:matt/goldmine/plank: 512 240
+:matt/goldmine/03: 400 236
+:matt/goldmine/03: 330 234
+:matt/goldmine/02: -22 52
+:matt/goldmine/09: 612 74
+:matt/goldmine/04: 524 -56
+:matt/goldmine/09: 610 160
+:matt/goldmine/06: 538 242
+:matt/goldmine/plank: 48 320
+:matt/goldmine/07: 168 284
+:matt/goldmine/06: 102 322
+:matt/goldmine/07: 246 238
+:matt/goldmine/09: -48 134
+:matt/goldmine/08: -60 208
+:matt/goldmine/03: -38 318
+:matt/goldmine/07: 66 324
+:matt/goldmine/07: -30 328
+:matt/goldmine/07: 280 -12
+:matt/goldmine/07: 70 4
+:matt/goldmine/03: 404 48
+:matt/goldmine/03: 222 62
+:matt/goldmine/07: 550 -40
+:matt/goldmine/07: 256 336
+:matt/goldmine/07: 448 352
+:matt/goldmine/07: 352 288
+:matt/goldmine/07: 512 256
+:matt/goldmine/07: 560 304
+:matt/goldmine/07: 352 240
+:matt/goldmine/07: 416 240
