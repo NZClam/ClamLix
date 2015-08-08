@@ -1,4 +1,4 @@
-$BUILT 2015-08-04 19:37:02
+$BUILT 2015-08-07 07:03:08
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Lixety Split
@@ -20,17 +20,19 @@ $ENGLISH Lixety Split
 #SPAWN_INTERVAL_FAST 4
 
 #WALKER 10
-#JUMPER 10
+#RUNNER 10
 #CLIMBER 10
 #FLOATER 10
 #EXPLODER2 10
-#BATTER 10
 #BLOCKER 10
 #BUILDER 10
 #PLATFORMER 10
 #BASHER 10
 #MINER 10
 #DIGGER 10
+#JUMPER 10
+#BATTER 10
+#CUBER 10
 
 :matt/beach/decor/bonfire.D: 1393 272
 :matt/beach/decor/moon.D: 1632 96
@@ -40,7 +42,6 @@ $ENGLISH Lixety Split
 :matt/beach/goal.G: 1264 248
 
 :matt/beach/decor/shovel: 808 136
-:matt/marble/thinplatform8p: 818 155 d
 :matt/beach/decor/shovel: 936 232
 :matt/beach/decor/shovel: 344 128
 :matt/beach/nighttime/05: 552 208 r
@@ -118,7 +119,6 @@ $ENGLISH Lixety Split
 :matt/beach/nighttime/14: 1296 312 rr
 :matt/beach/nighttime/14: 1328 312 rr
 :matt/beach/nighttime/14: 1352 312 rr
-:matt/marble/thinplatform8p: 354 147 d
 :matt/beach/decor/grass02: 1256 312
 :matt/beach/decor/grass02: 1304 312
 :matt/beach/decor/grass08: 1232 328
@@ -158,3 +158,5 @@ $ENGLISH Lixety Split
 :matt/beach/decor/grass08: 304 368 frr
 :matt/beach/decor/grass08: 496 368 frr
 :matt/beach/decor/grass08: 160 368 frr
+:matt/bricks/12b: 344 114 d
+:matt/bricks/12b: 808 122 d

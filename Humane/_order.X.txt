@@ -11,6 +11,7 @@ play-bridge.txt
 works-on-so-many-levels.txt
 the-endless-steps.txt
 more-wee-creatures.txt
+flotilla.txt
 throw-the-switch.txt
 square-dancing.txt
 altitude-training.txt

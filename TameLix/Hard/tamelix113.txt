@@ -1,4 +1,4 @@
-$BUILT 2014-02-08 14:57:42
+$BUILT 2015-08-07 07:00:41
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Go! Go! GOOOOOO!!!
@@ -27,15 +27,12 @@ $ENGLISH Go! Go! GOOOOOO!!!
 #BASHER 20
 #MINER 20
 #DIGGER 20
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 
 :matt/carnival/Hatch.H: 384 208
 
 :matt/carnival/Goal.G: 704 72
 
+:matt/carnival/44: 448 176
 :matt/carnival/56: 224 160
 :matt/carnival/16: 200 224 fr
 :matt/carnival/02: 200 208 fd
@@ -44,6 +41,7 @@ $ENGLISH Go! Go! GOOOOOO!!!
 :matt/carnival/49: 632 288
 :matt/carnival/49: 664 256
 :matt/carnival/49: 696 224
+:matt/carnival/49: 744 208
 :matt/carnival/49: 728 192
 :matt/carnival/46: 480 144
 :matt/carnival/46: 512 176
@@ -87,12 +85,11 @@ $ENGLISH Go! Go! GOOOOOO!!!
 :matt/carnival/12: 744 304
 :matt/carnival/12: 760 304
 :matt/carnival/44: 480 208
-:matt/carnival/44: 448 176
 :matt/carnival/47: 712 272
-:matt/carnival/47: 744 240
 :matt/carnival/24: 192 0
 :matt/carnival/24: 192 64
-:matt/carnival/56: 224 144
+:matt/carnival/56: 224 136 d
+:matt/carnival/00: 256 144 n
 :matt/carnival/24: 192 128
 :matt/carnival/24: 128 64
 :matt/carnival/24: 64 0
@@ -107,10 +104,10 @@ $ENGLISH Go! Go! GOOOOOO!!!
 :matt/carnival/00: 512 208
 :matt/carnival/47: 728 224
 :matt/carnival/49: 712 240
-:matt/carnival/57: 768 192
-:matt/carnival/57: 768 208
-:matt/carnival/49: 744 208
 :matt/carnival/47: 760 192
+:matt/carnival/57: 768 192
+:matt/carnival/57: 768 216 d
+:matt/carnival/47: 744 240
 :matt/carnival/49: 680 272
 :matt/carnival/47: 664 288
 :matt/carnival/12: 664 304
@@ -137,7 +134,7 @@ $ENGLISH Go! Go! GOOOOOO!!!
 :matt/carnival/25: 1088 -16
 :matt/carnival/01: 1088 176
 :matt/carnival/57: 832 192
-:matt/carnival/57: 832 208
+:matt/carnival/57: 832 216 d
 :matt/carnival/50: 336 288
 :matt/carnival/50: 352 304
 :matt/carnival/49: 160 288
@@ -182,3 +179,14 @@ $ENGLISH Go! Go! GOOOOOO!!!
 :matt/carnival/55: 256 0
 :matt/carnival/55: 512 0
 :matt/carnival/55: 576 0
+:matt/carnival/01: 800 208 n
+:matt/carnival/01: 864 208 n
+:matt/carnival/01: 928 208 n
+:matt/carnival/01: 992 208 n
+:matt/carnival/57: 768 208 fn
+:matt/carnival/01: 1056 208 n
+:matt/carnival/57: 832 208 fn
+:matt/carnival/00: 320 144 n
+:matt/carnival/00: 384 144 n
+:matt/carnival/00: 448 144 n
+:matt/carnival/56: 224 144 fn

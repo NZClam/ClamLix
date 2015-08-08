@@ -1,4 +1,4 @@
-$BUILT 2015-08-04 20:39:24
+$BUILT 2015-08-06 21:12:27
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Call a Spade a Spade
@@ -31,7 +31,6 @@ $ENGLISH Call a Spade a Spade
 :matt/beach/goal.G: 1264 248
 
 :matt/beach/decor/shovel: 808 136
-:matt/marble/thinplatform8p: 818 155 d
 :matt/beach/decor/shovel: 936 232
 :matt/beach/decor/shovel: 344 128
 :matt/beach/nighttime/05: 552 208 r
@@ -109,7 +108,6 @@ $ENGLISH Call a Spade a Spade
 :matt/beach/nighttime/14: 1296 312 rr
 :matt/beach/nighttime/14: 1328 312 rr
 :matt/beach/nighttime/14: 1352 312 rr
-:matt/marble/thinplatform8p: 354 147 d
 :matt/beach/decor/grass02: 1256 312
 :matt/beach/decor/grass02: 1304 312
 :matt/beach/decor/grass08: 1232 328
@@ -149,3 +147,5 @@ $ENGLISH Call a Spade a Spade
 :matt/beach/decor/grass08: 304 368 frr
 :matt/beach/decor/grass08: 496 368 frr
 :matt/beach/decor/grass08: 160 368 frr
+:matt/bricks/12b: 344 114 d
+:matt/bricks/12b: 808 122 d

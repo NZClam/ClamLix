@@ -1,4 +1,4 @@
-$BUILT 2015-08-02 19:54:23
+$BUILT 2015-08-08 16:50:14
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Play Bridge
@@ -19,18 +19,7 @@ $ENGLISH Play Bridge
 #SPAWN_INTERVAL 60
 #SPAWN_INTERVAL_FAST 4
 
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 #BUILDER 25
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 
 :matt/marble/Hatch.H: 512 100
 
@@ -124,3 +113,4 @@ $ENGLISH Play Bridge
 :matt/marble/05d: 96 256
 :matt/marble/05d: 96 64
 :matt/marble/16: 128 256
+:matt/marble/02: 944 272

@@ -1,5 +1,4 @@
 lord-of-the-rungs.txt
-flotilla.txt
 skipping-stones.txt
 things-can-only-get-batter.txt
 mental-block.txt
@@ -19,3 +18,8 @@ death-slide.txt
 shopping-cart-race.txt
 urban-ledge-end.txt
 send-in-the-square-squad.txt
+box-of-tricks.txt
+beaten-into-shape.txt
+fill-the-floor.txt
+i-am-b-a-t.txt
+santas-workshop.txt
