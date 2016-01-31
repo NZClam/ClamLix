@@ -1,4 +1,4 @@
-$BUILT 2014-06-08 16:21:46
+$BUILT 2016-01-31 14:14:03
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Fire up the bomb squad
@@ -16,21 +16,12 @@ $ENGLISH Fire up the bomb squad
 #SECONDS 0
 #INITIAL 20
 #REQUIRED 10
-#SPAWN_INTERVAL 28
+#SPAWN_INTERVAL 10
 #SPAWN_INTERVAL_FAST 4
 
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 #CLIMBER 10
 #EXPLODER2 10
-#BLOCKER 10
 #BUILDER 3
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 
 :geoo/sandstone/Hatch.H: 192 224
 
@@ -46,7 +37,6 @@ $ENGLISH Fire up the bomb squad
 :geoo/sandstone/64x64: 448 320
 :geoo/sandstone/64x64: 512 320
 :geoo/sandstone/64x64: 576 320
-:geoo/sandstone/64x64: 512 224
 :geoo/sandstone/64x64: 512 128
 :geoo/sandstone/64x64: 512 64
 :geoo/sandstone/64x64: 576 0
@@ -92,3 +82,5 @@ $ENGLISH Fire up the bomb squad
 :geoo/sandstone/64x32: 512 192
 :geoo/sandstone/64x32: 576 192
 :geoo/steel/32x64o.S: 472 176
+:geoo/steel/32x64o.S: 512 224
+:geoo/sandstone/32x64: 544 224

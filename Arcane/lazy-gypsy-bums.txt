@@ -1,4 +1,4 @@
-$BUILT 2015-08-08 18:44:12
+$BUILT 2015-09-06 17:45:21
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Lazy Gypsy Bums
@@ -402,7 +402,6 @@ $ENGLISH Lazy Gypsy Bums
 :geoo/construction/platform.S: 510 58 fr
 :geoo/construction/platform.S: 510 26 fr
 :geoo/construction/platform.S: 510 -6 fr
-:geoo/steel/32x16o.S: 448 136
 :geoo/steel/32x32o.S: 192 208
 :geoo/steel/32x32o.S: 192 176
 :geoo/steel/32x16o.S: 192 160
@@ -422,3 +421,4 @@ $ENGLISH Lazy Gypsy Bums
 :matt/carnival/02: 800 32
 :matt/carnival/02: 832 32
 :matt/carnival/02: 864 32
+:geoo/steel/16x16o.S: 448 136

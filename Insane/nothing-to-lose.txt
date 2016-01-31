@@ -1,4 +1,4 @@
-$BUILT 2014-06-08 16:18:46
+$BUILT 2016-01-31 12:46:25
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Nothing to Lose
@@ -19,18 +19,8 @@ $ENGLISH Nothing to Lose
 #SPAWN_INTERVAL 38
 #SPAWN_INTERVAL_FAST 4
 
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 #FLOATER 10
 #BUILDER 14
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
 
 :geoo/construction/Hatch.H: 96 112
 :geoo/construction/Hatch.H: 432 112
@@ -126,16 +116,13 @@ $ENGLISH Nothing to Lose
 :geoo/construction/rod_rust/end_rect: 232 304 frr
 :geoo/construction/rod_rust/end_rect: 360 240 frr
 :geoo/construction/rod_rust/straight32: 176 240
-:geoo/construction/wall/small_diag_tu: 240 64
-:geoo/construction/wall/big_square: 208 48
-:geoo/construction/wall/small_diag_tu: 240 32
-:geoo/construction/wall/small_brick1: 208 32
-:geoo/construction/wall/small_diag_td: 240 48
-:geoo/construction/wall/small_diag_td: 256 32
-:geoo/construction/wall/small_diag_bu: 256 48
+:geoo/construction/wall/small_diag_tu: 224 64
+:geoo/construction/wall/small_diag_tu: 224 32
+:geoo/construction/wall/small_diag_td: 224 48
+:geoo/construction/wall/small_diag_td: 240 32
+:geoo/construction/wall/small_diag_bu: 240 48
 :geoo/construction/wall/small_brick1: 336 32
-:geoo/construction/wall/big_square: 368 0
-:geoo/construction/wall/small_diag_bu: 368 32
+:geoo/construction/wall/small_diag_bu: 384 32
 :geoo/construction/wall/small_brick1: 272 0
 :geoo/construction/wall/small_brick2: 208 0
 :geoo/construction/wall/small_brick2: 304 0
@@ -154,3 +141,9 @@ $ENGLISH Nothing to Lose
 :geoo/construction/wall/small_brick1: 496 0
 :geoo/construction/wall/small_brick2: 528 0
 :geoo/construction/wall/small_brick3: 560 0
+:geoo/construction/wall/small_brick1: 208 48 fr
+:geoo/construction/wall/small_square: 208 32
+:geoo/construction/wall/small_square: 256 32
+:geoo/construction/wall/small_brick3: 368 0
+:geoo/construction/wall/small_square: 368 32
+:geoo/construction/wall/small_square: 384 16

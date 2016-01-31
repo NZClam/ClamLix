@@ -1,4 +1,4 @@
-$BUILT 2015-08-08 23:39:09
+$BUILT 2016-01-31 12:34:19
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH I've got the world on a string
@@ -79,8 +79,7 @@ $ENGLISH I've got the world on a string
 :matt/earth/09: 512 255
 :matt/earth/09: 544 255
 :matt/earth/09: 558 255
-:geoo/steel/16x32o.S: 387 222 d
-:geoo/steel/16x32o.S: 387 223 d
+:geoo/steel/16x32o.S: 390 223 d
 :matt/earth/29: 508 73
 :matt/earth/30: 154 256
 :matt/earth/30: 106 304
@@ -93,3 +92,5 @@ $ENGLISH I've got the world on a string
 :geoo/steel/16x32o.S: 200 193 d
 :geoo/steel/16x32o.S: 201 194 d
 :geoo/steel/16x32o.S: 202 195 d
+:geoo/steel/16x32o.S: 389 224 d
+:geoo/steel/16x32o.S: 387 225 d

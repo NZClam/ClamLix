@@ -6,6 +6,7 @@ bridge-burnout.txt
 pillarity-ensues.txt
 bucket-list.txt
 shelf-life.txt
+easy-five-step-plan.txt
 a-step-too-far.txt
 play-bridge.txt
 works-on-so-many-levels.txt
@@ -21,5 +22,4 @@ wall-crawler.txt
 catch-your-death.txt
 about-face.txt
 dig-deep.txt
-interval-training.txt
 pachinkube.txt

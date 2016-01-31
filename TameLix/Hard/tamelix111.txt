@@ -1,4 +1,4 @@
-$BUILT 2014-02-08 15:03:35
+$BUILT 2015-08-18 20:09:05
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH whITe ouT
@@ -15,22 +15,11 @@ $ENGLISH whITe ouT
 
 #SECONDS 240
 #INITIAL 50
-#REQUIRED 25
+#REQUIRED 49
 #SPAWN_INTERVAL 53
 #SPAWN_INTERVAL_FAST 4
 
-#CLIMBER 0
-#FLOATER 0
-#EXPLODER 0
-#BLOCKER 0
-#BUILDER 3
-#BASHER 0
-#MINER 0
-#DIGGER 2
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
+#MINER 2
 
 :matt/winter/Hatch.H: 168 96
 
@@ -55,20 +44,20 @@ $ENGLISH whITe ouT
 :matt/winter/06: 478 144
 :matt/winter/06: 510 208
 :matt/winter/17: 454 168
-:matt/winter/06: 476 110 d
-:matt/winter/06: 468 116 d
-:matt/winter/06: 466 128 d
-:matt/winter/06: 464 136 d
-:matt/winter/06: 462 144 d
+:matt/winter/06: 476 112 d
+:matt/winter/06: 468 118 d
+:matt/winter/06: 466 130 d
+:matt/winter/06: 464 138 d
+:matt/winter/06: 462 146 d
 :matt/winter/06: 460 160 d
 :matt/winter/06: 458 172 d
 :matt/winter/06: 456 180 d
 :matt/winter/06: 452 182 d
 :matt/winter/06: 450 196 d
 :matt/winter/06: 448 200 d
-:matt/winter/06: 486 116 d
-:matt/winter/06: 488 124 d
-:matt/winter/06: 490 132 d
+:matt/winter/06: 486 118 d
+:matt/winter/06: 488 126 d
+:matt/winter/06: 490 134 d
 :matt/winter/06: 502 148 d
 :matt/winter/06: 504 156 d
 :matt/winter/06: 506 166 d

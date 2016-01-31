@@ -1,4 +1,4 @@
-$BUILT 2015-06-07 19:25:04
+$BUILT 2016-01-31 10:17:48
 $AUTHOR Clam
 $GERMAN 
 $ENGLISH Builders Without Borders II
@@ -14,27 +14,17 @@ $ENGLISH Builders Without Borders II
 #BACKGROUND_BLUE 0
 
 #SECONDS 0
-#INITIAL 100
-#REQUIRED 5
+#INITIAL 20
+#REQUIRED 10
 #SPAWN_INTERVAL 96
 #SPAWN_INTERVAL_FAST 4
 
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#EXPLODER2 20
-#BUILDER 12
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
-#NOTHING 0
+#EXPLODER2 10
+#BUILDER 15
 
-:matt/marble/Hatch.H: 152 224
+:matt/marble/Hatch.H: 40 208
 
-:matt/marble/Goal.G: 152 64
+:matt/marble/Goal.G: 40 80
 
 :geoo/construction/Laseremit_hzl_16.F: 0 352
 :geoo/construction/Laseremit_hzr_16.F: 624 352
@@ -61,11 +51,23 @@ $ENGLISH Builders Without Borders II
 :geoo/construction/Laser_hz_64.F: 528 368
 :geoo/construction/Laser_hz_64.F: 560 368
 
-:matt/marble/21: 128 320
-:matt/marble/21: 176 320
-:matt/marble/21: 128 304
-:matt/marble/21: 176 304
-:matt/marble/21: 128 128
-:matt/marble/21: 176 128
-:matt/marble/21: 128 112
-:matt/marble/21: 176 112
+:matt/marble/21: 80 320
+:matt/marble/21: 144 320
+:matt/marble/21: 0 272 rrr
+:matt/marble/21: 80 128
+:matt/marble/21: 144 128
+:matt/marble/21: 0 0 rrr
+:matt/marble/21: 16 128
+:matt/marble/21: 16 320
+:matt/marble/21: 144 304
+:matt/marble/21: 144 112
+:geoo/steel/16x32o.S: 128 112
+:geoo/steel/16x32o.S: 128 304
+:matt/marble/21: 208 272 rrr
+:matt/marble/21: 208 240 rrrd
+:matt/marble/21: 208 80 rrr
+:matt/marble/21: 208 48 rrrd
+:matt/marble/21: 0 64 rrr
+:matt/marble/21: 0 128 rrr
+:matt/marble/21: 0 192 rrr
+:matt/marble/21: 0 256 rrr
